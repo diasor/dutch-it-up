@@ -32,7 +32,7 @@
 
 <script setup>
 import { defineProps } from "vue";
-import RowAnswerFull from "../base/RowAnswerFull.vue";
+import RowAnswerFull from "./../base/RowAnswerFull.vue";
 
 const props = defineProps({
     enablePractice: Boolean

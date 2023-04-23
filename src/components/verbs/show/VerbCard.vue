@@ -41,8 +41,8 @@
 <script setup>
 import { ref, computed, watch, onMounted } from "vue";
 import { useStore } from "vuex";
-import VerbCardPresent from "./VerbCardPresent.vue";
-import VerbCardPast from "./VerbCardPast.vue";
+import VerbCardPresent from "../show/VerbCardPresent.vue";
+import VerbCardPast from "../show/VerbCardPast.vue";
 import { useVerb } from "@/composables/verbs";
 import { TENSES } from "@/constants/index";
 import {
@@ -81,7 +81,6 @@ const getVerbResultsPerTense = () => {
 const random = () => (Math.floor(Math.random() * (MAXIMUM - MINIMUM + 1)) + MINIMUM);
 const colorPalette = computed(() => {
     const randomColorIndex = random();
-    console.log("random", randomColorIndex);
     const palettes = [
         COLOR_PALETTE_1,
         COLOR_PALETTE_2,

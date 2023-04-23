@@ -1,9 +1,9 @@
 <template>
     <v-row style="height: 3.5rem">
-        <v-col cols="12" md="3">
+        <v-col cols="3">
             <v-label class="pl-1">{{ props.personText }}</v-label>
         </v-col>
-        <v-col cols="12" md="6">
+        <v-col cols="6">
             <v-text-field
                 v-model="verb"
                 label=""
@@ -16,7 +16,7 @@
                 @blur="answerReady"
             />
         </v-col>
-        <v-col cols="12" md="3">
+        <v-col cols="3">
             <!-- show correct answer icon -->
             <v-tooltip text="Show me the correct answer">
                 <template v-slot:activator="{ props }">

@@ -1,7 +1,7 @@
 <template>
     <v-container class="py-0">
         <v-row>
-            <v-col cols="6">
+            <v-col cols="12" xl="6" lg="6" md="6" sm="12" xs="12">
                 <v-sheet
                     class="d-flex"
                     color="teal-lighten-3"
@@ -12,7 +12,7 @@
                 </v-sheet>
             </v-col>
 
-            <v-col cols="6">
+            <v-col cols="12" xl="6" lg="6" md="6" sm="12" xs="12">
                 <v-sheet
                     class="d-flex"
                     color="red-lighten-3"
