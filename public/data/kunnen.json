@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "kan",
+        "je": "kunt",
+        "hij": "kunt",
+        "het": "kan",
+        "we": "kunnen",
+        "jullie": "kunnen",
+        "ze": "kunnen"
+    },
+    "imperfectum": {
+        "ik": "kon",
+        "je": "kon",
+        "hij": "kon",
+        "het": "konden",
+        "we": "konden",
+        "jullie": "konden",
+        "ze": "konden"
+    },
+    "perfectum": {
+        "ik": "heb gekund",
+        "je": "hebt gekund",
+        "hij": "heeft gekund",
+        "het": "heeft gekund",
+        "we": "hebben gekund",
+        "jullie": "hebben gekund",
+        "ze": "hebben gekund"
+    },
+    "plusquamperfectum": {
+        "ik": "had gekund",
+        "je": "had gekund",
+        "hij": "had gekund",
+        "het": "had gekund",
+        "we": "hadden gekund",
+        "jullie": "hadden gekund",
+        "ze": "hadden gekund"
+    },
+    "voorbeelden": [
+        "We kunnen gaan.",
+        "Kunnen wij u helpen?",
+        "Ze kunnen gezichten herkennen.",
+        "Perspectieven kunnen veranderen."
+    ],
+    "vertalingen": [
+        "to be able to",
+        "to can"
+    ]
+}

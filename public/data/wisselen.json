@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "wissel",
+        "je": "wisselt",
+        "hij": "wisselt",
+        "het": "wisselt",
+        "we": "wisselen",
+        "jullie": "wisselen",
+        "ze": "wisselen"
+    },
+    "imperfectum": {
+        "ik": "wisselde",
+        "je": "wisselde",
+        "hij": "wisselde",
+        "het": "wisselde",
+        "we": "wisselden",
+        "jullie": "wisselden",
+        "ze": "wisselden"
+    },
+    "perfectum": {
+        "ik": "heb gewisseld",
+        "je": "hebt gewisseld",
+        "hij": "heeft gewisseld",
+        "het": "heeft gewisseld",
+        "we": "hebben gewisseld",
+        "jullie": "hebben gewisseld",
+        "ze": "hebben gewisseld"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewisseld",
+        "je": "had gewisseld",
+        "hij": "had gewisseld",
+        "het": "had gewisseld",
+        "we": "hadden gewisseld",
+        "jullie": "hadden gewisseld",
+        "ze": "hadden gewisseld"
+    },
+    "voorbeelden": [
+        "Zullen we van onderwerp wisselen?",
+        "Wisselen jullie even van plaats.",
+        "Wij hebben natuurlijk meer manieren om samen te werken en van gedachten te wisselen.",
+        "Stemmen bij geheime stemming is niet zoiets als van overhemd wisselen."
+    ],
+    "vertalingen": [
+        "to change",
+        "to exchange",
+        "to swap"
+    ]
+}

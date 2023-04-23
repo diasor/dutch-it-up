@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "groei",
+        "je": "groeit",
+        "hij": "groeit",
+        "het": "groeit",
+        "we": "groeien",
+        "jullie": "groeien",
+        "ze": "groeien"
+    },
+    "imperfectum": {
+        "ik": "groeide",
+        "je": "groeide",
+        "hij": "groeide",
+        "het": "groeide",
+        "we": "groeiden",
+        "jullie": "groeiden",
+        "ze": "groeiden"
+    },
+    "perfectum": {
+        "ik": "heb gegroeid",
+        "je": "hebt gegroeid",
+        "hij": "heeft gegroeid",
+        "het": "heeft gegroeid",
+        "we": "hebben gegroeid",
+        "jullie": "hebben gegroeid",
+        "ze": "hebben gegroeid"
+    },
+    "plusquamperfectum": {
+        "ik": "had gegroeid",
+        "je": "had gegroeid",
+        "hij": "had gegroeid",
+        "het": "had gegroeid",
+        "we": "hadden gegroeid",
+        "jullie": "hadden gegroeid",
+        "ze": "hadden gegroeid"
+    },
+    "voorbeelden": [
+        "Er groeien magische paddenstoelen in de bergen.",
+        "Er groeien hier twee verschillende soorten koraal.",
+        "Jullie zijn sneller gegroeid dan ik dacht.",
+        "Met 8,5% is Noord-Amerika opnieuw aanzienlijk gegroeid."
+    ],
+    "vertalingen": [
+        "to grow"
+    ]
+}

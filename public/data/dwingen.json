@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "dwing",
+        "je": "dwingt",
+        "hij": "dwingt",
+        "het": "dwingt",
+        "we": "dwingen",
+        "jullie": "dwingen",
+        "ze": "dwingen"
+    },
+    "imperfectum": {
+        "ik": "dwong",
+        "je": "dwong",
+        "hij": "dwong",
+        "het": "dwong",
+        "we": "dwongen",
+        "jullie": "dwongen",
+        "ze": "dwongen"
+    },
+    "perfectum": {
+        "ik": "heb gedwongen",
+        "je": "hebt gedwongen",
+        "hij": "heeft gedwongen",
+        "het": "heeft gedwongen",
+        "we": "hebben gedwongen",
+        "jullie": "hebben gedwongen",
+        "ze": "hebben gedwongen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gedwongen",
+        "je": "had gedwongen",
+        "hij": "had gedwongen",
+        "het": "had gedwongen",
+        "we": "hadden gedwongen",
+        "jullie": "hadden gedwongen",
+        "ze": "hadden gedwongen"
+    },
+    "voorbeelden": [
+        "We willen je natuurlijk niet dwingen.",
+        "Helaas had Nederland niets om terugbetaling af te dwingen.",
+        "Zo kunnen we ze dwingen om over vrede te onderhandelen.",
+        "Hij wordt gedwongen om te vluchten.",
+        "Uiteindelijk werd ik gedwongen tot een compromis."
+    ],
+    "vertalingen": [
+        "to force",
+        "to compel",
+        "to coerce"
+    ]
+}

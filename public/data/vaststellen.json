@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "stel vast",
+        "je": "stelt vast",
+        "hij": "stelt vast",
+        "het": "stelt vast",
+        "we": "stellen vast",
+        "jullie": "stellen vast",
+        "ze": "stellen vast"
+    },
+    "imperfectum": {
+        "ik": "stelde vast",
+        "je": "stelde vast",
+        "hij": "stelde vast",
+        "het": "stelde vast",
+        "we": "stelden vast",
+        "jullie": "stelden vast",
+        "ze": "stelden vast"
+    },
+    "perfectum": {
+        "ik": "heb vastgesteld",
+        "je": "hebt vastgesteld",
+        "hij": "heeft vastgesteld",
+        "het": "heeft vastgesteld",
+        "we": "hebben vastgesteld",
+        "jullie": "hebben vastgesteld",
+        "ze": "hebben vastgesteld"
+    },
+    "plusquamperfectum": {
+        "ik": "had vastgesteld",
+        "je": "had vastgesteld",
+        "hij": "had vastgesteld",
+        "het": "had vastgesteld",
+        "we": "hadden vastgesteld",
+        "jullie": "hadden vastgesteld",
+        "ze": "hadden vastgesteld"
+    },
+    "voorbeelden": [
+        "Welke resultaten kunnen wij nu vaststellen?",
+        "U moet een strategie vaststellen voor toekomstige uitbreidingen.",
+        "Uw arts zal de nieuwe dosis vaststellen.",
+        "Deze wordt jaarlijks door de begrotingsautoriteit vastgesteld overeenkomstig de financiële vooruitzichten."
+    ],
+    "vertalingen": [
+        "to establish",
+        "to determine"
+    ]
+}

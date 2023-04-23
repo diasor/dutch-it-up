@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "schenk",
+        "je": "schenkt",
+        "hij": "schenkt",
+        "het": "schenkt",
+        "we": "schenken",
+        "jullie": "schenken",
+        "ze": "schenken"
+    },
+    "imperfectum": {
+        "ik": "schonk",
+        "je": "schonk",
+        "hij": "schonk",
+        "het": "schonk",
+        "we": "schonken",
+        "jullie": "schonken",
+        "ze": "schonken"
+    },
+    "perfectum": {
+        "ik": "heb geschonken",
+        "je": "hebt geschonken",
+        "hij": "heeft geschonken",
+        "het": "heeft geschonken",
+        "we": "hebben geschonken",
+        "jullie": "hebben geschonken",
+        "ze": "hebben geschonken"
+    },
+    "plusquamperfectum": {
+        "ik": "had geschonken",
+        "je": "had geschonken",
+        "hij": "had geschonken",
+        "het": "had geschonken",
+        "we": "hadden geschonken",
+        "jullie": "hadden geschonken",
+        "ze": "hadden geschonken"
+    },
+    "voorbeelden": [
+        "We zullen aandacht aan dat aspect moeten schenken.",
+        "Wij moeten meer aandacht schenken aan de burgers.",
+        "Er werd op het schoolfeest geen alcohol geschonken."
+    ],
+    "vertalingen": [
+        "to donate",
+        "to pour",
+        "to give consideration"
+    ]
+}

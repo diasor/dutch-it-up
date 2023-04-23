@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "dring",
+        "je": "dringt",
+        "hij": "dringt",
+        "het": "dringt",
+        "we": "dringen",
+        "jullie": "dringen",
+        "ze": "dringen"
+    },
+    "imperfectum": {
+        "ik": "drong",
+        "je": "drong",
+        "hij": "drong",
+        "het": "drong",
+        "we": "drongen",
+        "jullie": "drongen",
+        "ze": "drongen"
+    },
+    "perfectum": {
+        "ik": "heb gedrongen",
+        "je": "hebt gedrongen",
+        "hij": "heeft gedrongen",
+        "het": "heeft gedrongen",
+        "we": "hebben gedrongen",
+        "jullie": "hebben gedrongen",
+        "ze": "hebben gedrongen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gedrongen",
+        "je": "had gedrongen",
+        "hij": "had gedrongen",
+        "het": "had gedrongen",
+        "we": "hadden gedrongen",
+        "jullie": "hadden gedrongen",
+        "ze": "hadden gedrongen"
+    },
+    "voorbeelden": [
+        "Toch dringen we er nu pas binnen.",
+        "Daar staan er om 13.00 uur zestig, zeventig, tachtig mensen voor de deur te drigen om als eersten binnen te zijn",
+        "En hier dringen zich een paar belangrijke vragen op.",
+        "Wij dringen aan op een spoedige implementatie van deze wetgeving.",
+        "Wij dringen dus terecht aan op betere controles, sancties en preventieve maatregelen."
+    ],
+    "vertalingen": [
+        "to press",
+        "to push",
+        "to urge"
+    ]
+}

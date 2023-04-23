@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "vlieg",
+        "je": "vliegt",
+        "hij": "vliegt",
+        "het": "vliegt",
+        "we": "vliegen",
+        "jullie": "vliegen",
+        "ze": "vliegen"
+    },
+    "imperfectum": {
+        "ik": "vloog",
+        "je": "vloog",
+        "hij": "vloog",
+        "het": "vloog",
+        "we": "vlogen",
+        "jullie": "vlogen",
+        "ze": "vlogen"
+    },
+    "perfectum": {
+        "ik": "heb gevlogen",
+        "je": "hebt gevlogen",
+        "hij": "heeft gevlogen",
+        "het": "heeft gevlogen",
+        "we": "hebben gevlogen",
+        "jullie": "hebben gevlogen",
+        "ze": "hebben gevlogen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gevlogen",
+        "je": "had gevlogen",
+        "hij": "had gevlogen",
+        "het": "had gevlogen",
+        "we": "hadden gevlogen",
+        "jullie": "hadden gevlogen",
+        "ze": "hadden gevlogen"
+    },
+    "voorbeelden": [
+        "Je kunt vliegen.",
+        "Bij vliegen vonden ze hetzelfde.",
+        "Vroeger was vliegen duur.",
+        "De muggen vliegen er rond.",
+        "Wij vliegen naar Straatsburg met Regional Airlines."
+    ],
+    "vertalingen": [
+        "to fly"
+    ]
+}

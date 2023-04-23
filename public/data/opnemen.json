@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "neem op",
+        "je": "neemt op",
+        "hij": "neemt op",
+        "het": "neemt op",
+        "wij": "nemen op",
+        "jullie": "nemen op",
+        "ze": "nemen op"
+    },
+    "imperfectum": {
+        "ik": "nam op",
+        "je": "nam op",
+        "hij": "nam op",
+        "het": "nam op",
+        "we": "namen op",
+        "jullie": "namen op",
+        "ze": "namen op"
+    },
+    "perfectum": {
+        "ik": "heb opgenomen",
+        "je": "hebt opgenomen",
+        "hij": "heeft opgenomen",
+        "het": "heeft opgenomen",
+        "we": "hebben opgenomen",
+        "jullie": "hebben opgenomen",
+        "ze": "hebben opgenomen"
+    },
+    "plusquamperfectum": {
+        "ik": "had opgenomen",
+        "je": "had opgenomen",
+        "hij": "had opgenomen",
+        "het": "had opgenomen",
+        "we": "hadden opgenomen",
+        "jullie": "hadden opgenomen",
+        "ze": "hadden opgenomen"
+    },
+    "voorbeelden": [
+        "Heeft u problemen me de installatie van de software op uw computer? Neem dan contact op met helpdesk.",
+        "Mijn telefoon gaat. O, dat is Jeaneete, zie ik. Ik neem nu niet op, ik bel haar straks wel terug.",
+        "Misschien moeten we dit opnemen.",
+        "We zullen contact met u opnemen.",
+        "De lidstaten moeten hun verantwoordelijkheid beter opnemen.",
+        "Als u klaar bent met opnemen, kunt u ophangen."
+    ],
+    "vertalingen": [
+        "to contact",
+        "to incorporate",
+        "to pick up"
+    ]
+}

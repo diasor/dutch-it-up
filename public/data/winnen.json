@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "win",
+        "je": "wint",
+        "hij": "wint",
+        "het": "wint",
+        "we": "winnen",
+        "jullie": "winnen",
+        "ze": "winnen"
+    },
+    "imperfectum": {
+        "ik": "won",
+        "je": "won",
+        "hij": "won",
+        "het": "won",
+        "we": "wonnen",
+        "jullie": "wonnen",
+        "ze": "wonnen"
+    },
+    "perfectum": {
+        "ik": "heb gewonnen",
+        "je": "hebt gewonnen",
+        "hij": "heeft gewonnen",
+        "het": "heeft gewonnen",
+        "we": "hebben gewonnen",
+        "jullie": "hebben gewonnen",
+        "ze": "hebben gewonnen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewonnen",
+        "je": "had gewonnen",
+        "hij": "had gewonnen",
+        "het": "had gewonnen",
+        "we": "hadden gewonnen",
+        "jullie": "hadden gewonnen",
+        "ze": "hadden gewonnen"
+    },
+    "voorbeelden": [
+        "We zullen winnen!",
+        "Ze zoeken en winnen.",
+        "Delen is winnen.",
+        "Winnen betekende alles voor hem. "
+    ],
+    "vertalingen": [
+        "to wash"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "veroorzaak",
+        "je": "veroorzaakt",
+        "hij": "veroorzaakt",
+        "het": "veroorzaakt",
+        "we": "veroorzaken",
+        "jullie": "veroorzaken",
+        "ze": "veroorzaken"
+    },
+    "imperfectum": {
+        "ik": "veroorzaakte",
+        "je": "veroorzaakte",
+        "hij": "veroorzaakte",
+        "het": "veroorzaakte",
+        "we": "veroorzaakten",
+        "jullie": "veroorzaakten",
+        "ze": "veroorzaakten"
+    },
+    "perfectum": {
+        "ik": "heb veroorzaakt",
+        "je": "hebt veroorzaakt",
+        "hij": "heeft veroorzaakt",
+        "het": "heeft veroorzaakt",
+        "we": "hebben veroorzaakt",
+        "jullie": "hebben veroorzaakt",
+        "ze": "hebben veroorzaakt"
+    },
+    "plusquamperfectum": {
+        "ik": "had veroorzaakt",
+        "je": "had veroorzaakt",
+        "hij": "had veroorzaakt",
+        "het": "had veroorzaakt",
+        "we": "hadden veroorzaakt",
+        "jullie": "hadden veroorzaakt",
+        "ze": "hadden veroorzaakt"
+    },
+    "voorbeelden": [
+        "Wapens kunnen veel schade veroorzaken.",
+        "Samen een huis verbouwen veroorzaakt vaak veel stress in een relatie.",
+        "Nitraten kunnen ernstige gezondheidsproblemen veroorzaken.",
+        "Voedselallergie kan door verschillende immuunmechanismen worden veroorzaakt.",
+        "Dat heeft jarenlang oneerlijke concurrentie veroorzaakt.",
+        "We voeren vertrouwelijke gesprekken met de lidstaten."
+    ],
+    "vertalingen": [
+        "to cause",
+        "to trigger"
+    ]
+}

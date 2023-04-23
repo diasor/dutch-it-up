@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "glijd",
+        "je": "glijdt",
+        "hij": "glijdt",
+        "het": "glijdt",
+        "we": "glijden",
+        "jullie": "glijden",
+        "ze": "glijden"
+    },
+    "imperfectum": {
+        "ik": "gleed",
+        "je": "gleed",
+        "hij": "gleed",
+        "het": "gleed",
+        "we": "gleden",
+        "jullie": "gleden",
+        "ze": "gleden"
+    },
+    "perfectum": {
+        "ik": "ben gegleden",
+        "je": "bent gegleden",
+        "hij": "is gegleden",
+        "het": "is gegleden",
+        "we": "zijn gegleden",
+        "jullie": "zijn gegleden",
+        "ze": "zijn gegleden"
+    },
+    "plusquamperfectum": {
+        "ik": "was gegleden",
+        "je": "was gegleden",
+        "hij": "was gegleden",
+        "het": "was gegleden",
+        "we": "waren gegleden",
+        "jullie": "waren gegleden",
+        "ze": "waren gegleden"
+    },
+    "voorbeelden": [
+        "Ik ben net van een muur gegleden.",
+        "Het gebouw is naar beneden gegleden.",
+        "Hij is bewusteloos op de grond gegleden."
+    ],
+    "vertalingen": [
+        "to slide",
+        "to slip"
+    ]
+}

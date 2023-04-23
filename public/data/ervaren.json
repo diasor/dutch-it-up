@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "ervaar",
+        "je": "ervaart",
+        "hij": "ervaart",
+        "het": "ervaart",
+        "we": "ervaren",
+        "jullie": "ervaren",
+        "ze": "ervaren"
+    },
+    "imperfectum": {
+        "ik": "ervoer",
+        "je": "ervoer",
+        "hij": "ervoer",
+        "het": "ervoer",
+        "we": "ervoeren",
+        "jullie": "ervoeren",
+        "ze": "ervoeren"
+    },
+    "perfectum": {
+        "ik": "heb ervaren",
+        "je": "hebt ervaren",
+        "hij": "heeft ervaren",
+        "het": "heeft ervaren",
+        "we": "hebben ervaren",
+        "jullie": "hebben ervaren",
+        "ze": "hebben ervaren"
+    },
+    "plusquamperfectum": {
+        "ik": "had ervaren",
+        "je": "had ervaren",
+        "hij": "had ervaren",
+        "het": "had ervaren",
+        "we": "hadden ervaren",
+        "jullie": "hadden ervaren",
+        "ze": "hadden ervaren"
+    },
+    "voorbeelden": [
+        "We hebben ons eerste paranormale verschijnsel ervaren.",
+        "Dat hebben we de afgelopen tijd extra kunnen ervaren.",
+        "Patiënten moet worden geadviseerd dat zij tijdens de behandeling bijwerkingen zoals vermoeidheid kunnen ervaren.",
+        "Ik ervoer een soort omgekeerde cultuurschok.",
+        "90% van de deelnemers ervoeren de training als positief."
+    ],
+    "vertalingen": [
+        "to experience",
+        "to accomplish"
+    ]
+}

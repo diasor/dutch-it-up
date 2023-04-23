@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "kom terecht",
+        "je": "komt terecht",
+        "hij": "komt terecht",
+        "het": "komt terecht",
+        "we": "komen terecht",
+        "jullie": "komen terecht",
+        "ze": "komen terecht"
+    },
+    "imperfectum": {
+        "ik": "kwam terecht",
+        "je": "kwam terecht",
+        "hij": "kwam terecht",
+        "het": "kwam terecht",
+        "we": "kwamen terecht",
+        "jullie": "kwamen terecht",
+        "ze": "kwamen terecht"
+    },
+    "perfectum": {
+        "ik": "heb terechtgekomen",
+        "je": "hebt terechtgekomen",
+        "hij": "heeft terechtgekomen",
+        "het": "heeft terechtgekomen",
+        "we": "hebben terechtgekomen",
+        "jullie": "hebben terechtgekomen",
+        "ze": "hebben terechtgekomen"
+    },
+    "plusquamperfectum": {
+        "ik": "had terechtgekomen",
+        "je": "had terechtgekomen",
+        "hij": "had terechtgekomen",
+        "het": "had terechtgekomen",
+        "we": "hadden terechtgekomen",
+        "jullie": "hadden terechtgekomen",
+        "ze": "hadden terechtgekomen"
+    },
+    "voorbeelden": [
+        "Dit soort dingen mag niet in de verkeerde handen terechtkomen.",
+        "De rechter besluit waar ze terechtkomen.",
+        "Bovendien kunnen deze geneesmiddelen terechtkomen bij patiënten in derde landen.",
+        "De hulp moet bovendien op de juiste plaats van bestemming terechtkomen.",
+        "Misschien is onze nieuwsbrief per ongeluk daarin terechtgekomen."
+    ],
+    "vertalingen": [
+        "to end up",
+        "to reach"
+    ]
+}

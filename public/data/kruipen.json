@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "kruip",
+        "je": "kruipt",
+        "hij": "kruipt",
+        "het": "kruipt",
+        "we": "kruipen",
+        "jullie": "kruipen",
+        "ze": "kruipen"
+    },
+    "imperfectum": {
+        "ik": "kroop",
+        "je": "kroop",
+        "hij": "kroop",
+        "het": "kroop",
+        "we": "kropen",
+        "jullie": "kropen",
+        "ze": "kropen"
+    },
+    "perfectum": {
+        "ik": "heb gekropen",
+        "je": "hebt gekropen",
+        "hij": "heeft gekropen",
+        "het": "heeft gekropen",
+        "we": "hebben gekropen",
+        "jullie": "hebben gekropen",
+        "ze": "hebben gekropen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gekropen",
+        "je": "had gekropen",
+        "hij": "had gekropen",
+        "het": "had gekropen",
+        "we": "hadden gekropen",
+        "jullie": "hadden gekropen",
+        "ze": "hadden gekropen"
+    },
+    "voorbeelden": [
+        "Kinderen kruipen vaak op handen en voeten.",
+        "Stop met kruipen, staan!",
+        "Ik ga je de lekkerste biokoekjes bakken.",
+        "In die delta kruipen alligators in en uit rivieren gevuld met vis onder cipressen vol met slangen, en vogels van elke soort. ."
+    ],
+    "vertalingen": [
+        "to crawl",
+        "to creep",
+        "to grovel"
+    ]
+}

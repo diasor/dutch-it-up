@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "treed op",
+        "je": "treedt op",
+        "hij": "treedt op",
+        "het": "treedt op",
+        "wij": "treden op",
+        "jullie": "treden op",
+        "ze": "treden op"
+    },
+    "imperfectum": {
+        "ik": "trad op",
+        "je": "trad op",
+        "hij": "trad op",
+        "het": "trad op",
+        "we": "traden op",
+        "jullie": "traden op",
+        "ze": "traden op"
+    },
+    "perfectum": {
+        "ik": "heb opgetreden",
+        "je": "hebt opgetreden",
+        "hij": "heeft opgetreden",
+        "het": "heeft opgetreden",
+        "we": "hebben opgetreden",
+        "jullie": "hebben opgetreden",
+        "ze": "hebben opgetreden"
+    },
+    "plusquamperfectum": {
+        "ik": "had opgetreden",
+        "je": "had opgetreden",
+        "hij": "had opgetreden",
+        "het": "had opgetreden",
+        "we": "hadden opgetreden",
+        "jullie": "hadden opgetreden",
+        "ze": "hadden opgetreden"
+    },
+    "voorbeelden": [
+        "Dan zou discriminatie optreden.",
+        "De regenboog is een verschijnsel dat optreedt na een regenbui",
+        "Ik mag naar z'n optreden vanavond.",
+        "Naast het interview hebben we uiteraard opgetreden.",
+        "Er is helaas een systeemfout opgetreden.",
+        "De politie hoefde niet op te treden omdat de demonstratie heel rustig verliep."
+    ],
+    "vertalingen": [
+        "to occur",
+        "to act / perform",
+        "to appear"
+    ]
+}

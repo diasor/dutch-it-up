@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "klim",
+        "je": "klimt",
+        "hij": "klimt",
+        "het": "klimt",
+        "we": "klimmen",
+        "jullie": "klimmen",
+        "ze": "klimmen"
+    },
+    "imperfectum": {
+        "ik": "klom",
+        "je": "klom",
+        "hij": "klom",
+        "het": "klom",
+        "we": "klommen",
+        "jullie": "klommen",
+        "ze": "klommen"
+    },
+    "perfectum": {
+        "ik": "heb geklommen",
+        "je": "hebt geklommen",
+        "hij": "heeft geklommen",
+        "het": "heeft geklommen",
+        "we": "hebben geklommen",
+        "jullie": "hebben geklommen",
+        "ze": "hebben geklommen"
+    },
+    "plusquamperfectum": {
+        "ik": "had geklommen",
+        "je": "had geklommen",
+        "hij": "had geklommen",
+        "het": "had geklommen",
+        "we": "hadden geklommen",
+        "jullie": "hadden geklommen",
+        "ze": "hadden geklommen"
+    },
+    "voorbeelden": [
+        "We klimmen in een boom.",
+        "Ze klimmen op een muur of een boom.",
+        "Je bent al door het raam geklommen."
+    ],
+    "vertalingen": [
+        "to climb",
+        "to ascend"
+    ]
+}

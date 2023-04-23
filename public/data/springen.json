@@ -1,0 +1,46 @@
+{
+    "presens": {
+        "ik": "spring",
+        "je": "springt",
+        "hij": "springt",
+        "het": "springt",
+        "we": "springen",
+        "jullie": "springen",
+        "ze": "springen"
+    },
+    "imperfectum": {
+        "ik": "sprong",
+        "je": "sprong",
+        "hij": "sprong",
+        "het": "sprong",
+        "we": "sprongen",
+        "jullie": "sprongen",
+        "ze": "sprongen"
+    },
+    "perfectum": {
+        "ik": "heb gesprongen",
+        "je": "hebt gesprongen",
+        "hij": "heeft gesprongen",
+        "het": "heeft gesprongen",
+        "we": "hebben gesprongen",
+        "jullie": "hebben gesprongen",
+        "ze": "hebben gesprongen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gesprongen",
+        "je": "had gesprongen",
+        "hij": "had gesprongen",
+        "het": "had gesprongen",
+        "we": "hadden gesprongen",
+        "jullie": "hadden gesprongen",
+        "ze": "hadden gesprongen"
+    },
+    "voorbeelden": [
+        "Niet springen!",
+        "Hoe ga je nu je kip bakken?",
+        "Hij heeft een gesprongen bloedvat in zijn hersenen."
+    ],
+    "vertalingen": [
+        "to jump"
+    ]
+}

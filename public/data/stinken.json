@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "stink",
+        "je": "stinkt",
+        "hij": "stinkt",
+        "het": "stinkt",
+        "we": "stinken",
+        "jullie": "stinken",
+        "ze": "stinken"
+    },
+    "imperfectum": {
+        "ik": "stonk",
+        "je": "stonk",
+        "hij": "stonk",
+        "het": "stonk",
+        "we": "stonken",
+        "jullie": "stonken",
+        "ze": "stonken"
+    },
+    "perfectum": {
+        "ik": "heb gestonken",
+        "je": "hebt gestonken",
+        "hij": "heeft gestonken",
+        "het": "heeft gestonken",
+        "we": "hebben gestonken",
+        "jullie": "hebben gestonken",
+        "ze": "hebben gestonken"
+    },
+    "plusquamperfectum": {
+        "ik": "had gestonken",
+        "je": "had gestonken",
+        "hij": "had gestonken",
+        "het": "had gestonken",
+        "we": "hadden gestonken",
+        "jullie": "hadden gestonken",
+        "ze": "hadden gestonken"
+    },
+    "voorbeelden": [
+        "Dode lichamen stinken.",
+        "Ik was wat ongerust dat de kamer zou gaan stinken.",
+        "Hij stinkt zo erg, dat ik wil overgeven.",
+        "Dit begint te stinken naar genialiteit.",
+        "Het moet heel erg gestonken hebben."
+    ],
+    "vertalingen": [
+        "to smell",
+        "to stink (bad)",
+        "to reek"
+    ]
+}

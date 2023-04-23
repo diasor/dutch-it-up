@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "schrijf",
+        "je": "schrijft",
+        "hij": "schrijft",
+        "het": "schrijft",
+        "we": "schrijven",
+        "jullie": "schrijven",
+        "ze": "schrijven"
+    },
+    "imperfectum": {
+        "ik": "schreef",
+        "je": "schreef",
+        "hij": "schreef",
+        "het": "schreef",
+        "we": "schreven",
+        "jullie": "schreven",
+        "ze": "schreven"
+    },
+    "perfectum": {
+        "ik": "heb geschreven",
+        "je": "hebt geschreven",
+        "hij": "heeft geschreven",
+        "het": "heeft geschreven",
+        "we": "hebben geschreven",
+        "jullie": "hebben geschreven",
+        "ze": "hebben geschreven"
+    },
+    "plusquamperfectum": {
+        "ik": "had geschreven",
+        "je": "had geschreven",
+        "hij": "had geschreven",
+        "het": "had geschreven",
+        "we": "hadden geschreven",
+        "jullie": "hadden geschreven",
+        "ze": "hadden geschreven"
+    },
+    "voorbeelden": [
+        "We schrijven geschiedenis.",
+        "Je zou moeten schrijven.",
+        "Ik zal je schrijven, oké?",
+        "De tijdschriften begonnen erover te schrijven."
+    ],
+    "vertalingen": [
+        "to write"
+    ]
+}

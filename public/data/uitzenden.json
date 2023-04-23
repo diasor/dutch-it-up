@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "zend uit",
+        "je": "zendt uit",
+        "hij": "zendt uit",
+        "het": "zendt uit",
+        "we": "zenden uit",
+        "jullie": "zenden uit",
+        "ze": "zenden uit"
+    },
+    "imperfectum": {
+        "ik": "zond uit",
+        "je": "zond uit",
+        "hij": "zond uit",
+        "het": "zond uit",
+        "we": "zonden uit",
+        "jullie": "zonden uit",
+        "ze": "zonden uit"
+    },
+    "perfectum": {
+        "ik": "heb uitgezonden",
+        "je": "hebt uitgezonden",
+        "hij": "heeft uitgezonden",
+        "het": "heeft uitgezonden",
+        "we": "hebben uitgezonden",
+        "jullie": "hebben uitgezonden",
+        "ze": "hebben uitgezonden"
+    },
+    "plusquamperfectum": {
+        "ik": "had uitgezonden",
+        "je": "had uitgezonden",
+        "hij": "had uitgezonden",
+        "het": "had uitgezonden",
+        "we": "hadden uitgezonden",
+        "jullie": "hadden uitgezonden",
+        "ze": "hadden uitgezonden"
+    },
+    "voorbeelden": [
+        "We gaan 'n SOS uitzenden.",
+        "Die zenuwen kunnen signalen uitzenden. ",
+        "Ik wou altijd al uitzenden vanuit het observatorium.",
+        "Iemand zal dit vast live uitzenden.",
+        "Dit zou beter niet uitgezonden worden.",
+        "Het derde seizoen is nooit uitgezonden."
+    ],
+    "vertalingen": [
+        "to broadcast",
+        "to transmit"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "bak",
+        "je": "bakt",
+        "hij": "bakt",
+        "het": "bakt",
+        "we": "bakken",
+        "jullie": "bakken",
+        "ze": "bakken"
+    },
+    "imperfectum": {
+        "ik": "bakte",
+        "je": "bakte",
+        "hij": "bakte",
+        "het": "bakte",
+        "we": "bakten",
+        "jullie": "bakten",
+        "ze": "bakten"
+    },
+    "perfectum": {
+        "ik": "heb gebakken",
+        "je": "hebt gebakken",
+        "hij": "heeft gebakken",
+        "het": "heeft gebakken",
+        "we": "hebben gebakken",
+        "jullie": "hebben gebakken",
+        "ze": "hebben gebakken"
+    },
+    "plusquamperfectum": {
+        "ik": "had gebakken",
+        "je": "had gebakken",
+        "hij": "had gebakken",
+        "het": "had gebakken",
+        "we": "hadden gebakken",
+        "jullie": "hadden gebakken",
+        "ze": "hadden gebakken"
+    },
+    "voorbeelden": [
+        "Kun je brood bakken?",
+        "Hoe ga je nu je kip bakken?",
+        "Ik ga je de lekkerste biokoekjes bakken.",
+        "Je kunt dit bakrecept eenvoudig bakken voor heerlijke chocoladebolletjes.",
+        "Die gebakken bananen zijn wel calorierijk.",
+        "Niet meer dan om gebakken garnalen."
+    ],
+    "vertalingen": [
+        "to bake",
+        "to cook",
+        "to fry"
+    ]
+}

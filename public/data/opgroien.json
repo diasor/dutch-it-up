@@ -1,0 +1,53 @@
+{
+    "presens": {
+        "ik": "groei op",
+        "je": "groeit op",
+        "hij": "groeit op",
+        "het": "groeit op",
+        "we": "groeien op",
+        "jullie": "groeien op",
+        "ze": "groeien op"
+    },
+    "imperfectum": {
+        "ik": "groeide op",
+        "je": "groeide op",
+        "hij": "groeide op",
+        "het": "groeide op",
+        "we": "groeiden op",
+        "jullie": "groeiden op",
+        "ze": "groeiden op"
+    },
+    "perfectum": {
+        "ik": "heb opgegroeid",
+        "je": "hebt opgegroeid",
+        "hij": "heeft opgegroeid",
+        "het": "heeft opgegroeid",
+        "we": "hebben opgegroeid",
+        "jullie": "hebben opgegroeid",
+        "ze": "hebben opgegroeid"
+    },
+    "plusquamperfectum": {
+        "ik": "had opgegroeid",
+        "je": "had opgegroeid",
+        "hij": "had opgegroeid",
+        "het": "had opgegroeid",
+        "we": "hadden opgegroeid",
+        "jullie": "hadden opgegroeid",
+        "ze": "hadden opgegroeid"
+    },
+    "voorbeelden": [
+        "Dat hij zijn kinderen ziet opgroeien.",
+        "Lieverd, opgroeien gaat niet ineens.",
+        "Mensen zeiden dat opgroeien nooit ging om de bestemming.",
+        "We zijn alle drie opgegroeid in hetzelfde dorp.",
+        "Ik ben met de verhalen opgegroeid.",
+        "Bijna iedereen is opgegroeid met vleeseten.",
+        "We zijn in verschillende werelden opgegroeid."
+    ],
+    "vertalingen": [
+        "to grow up",
+        "to raise",
+        "to be raised",
+        "to bring up"
+    ]
+}

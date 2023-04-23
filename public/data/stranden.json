@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "strand",
+        "je": "strandt",
+        "hij": "strandt",
+        "het": "strandt",
+        "we": "stranden",
+        "jullie": "stranden",
+        "ze": "stranden"
+    },
+    "imperfectum": {
+        "ik": "strandde",
+        "je": "strandde",
+        "hij": "strandde",
+        "het": "strandde",
+        "we": "strandden",
+        "jullie": "strandden",
+        "ze": "strandden"
+    },
+    "perfectum": {
+        "ik": "ben gestrand",
+        "je": "bent gestrand",
+        "hij": "bent gestrand",
+        "het": "is gestrand",
+        "we": "zijn gestrand",
+        "jullie": "zijn gestrand",
+        "ze": "zijn gestrand"
+    },
+    "plusquamperfectum": {
+        "ik": "was gestrand",
+        "je": "was gestrand",
+        "hij": "was gestrand",
+        "het": "was gestrand",
+        "we": "waren gestrand",
+        "jullie": "waren gestrand",
+        "ze": "waren gestrand"
+    },
+    "voorbeelden": [
+        "Duizenden luchtreizigers waren gestrand op de luchthavens en konden hun eindbestemming niet bereiken.",
+        "En nu ben ik hier gestrand.",
+        "Je mag die dynamiek gewoon niet laten stranden."
+    ],
+    "vertalingen": [
+        "to fail",
+        "to strand",
+        "to abort",
+        "to miscarry",
+        "to come to grief"
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "zal",
+        "je": "zult",
+        "hij": "zult",
+        "het": "zal",
+        "we": "zullen",
+        "jullie": "zullen",
+        "ze": "zullen"
+    },
+    "imperfectum": {
+        "ik": "zou",
+        "je": "zou",
+        "hij": "zou",
+        "het": "zou",
+        "we": "zouden",
+        "jullie": "zouden",
+        "ze": "zouden"
+    },
+    "perfectum": {
+        "ik": "heb gezuld",
+        "je": "hebt gezuld",
+        "hij": "heeft gezuld",
+        "het": "heeft gezuld",
+        "we": "hebben gezuld",
+        "jullie": "hebben gezuld",
+        "ze": "hebben gezuld"
+    },
+    "plusquamperfectum": {
+        "ik": "had gezuld",
+        "je": "had gezuld",
+        "hij": "had gezuld",
+        "het": "had gezuld",
+        "we": "hadden gezuld",
+        "jullie": "hadden gezuld",
+        "ze": "hadden gezuld"
+    },
+    "voorbeelden": [
+        "Zullen we opnieuw beginnen?",
+        "Ze zullen je zien.",
+        "Daar zullen we zijn.",
+        "De vliegprijzen zullen stijgen.",
+        "Zullen we telefoonnummers uitwisselen?"
+    ],
+    "vertalingen": [
+        "to shall",
+        "to will"
+    ]
+}

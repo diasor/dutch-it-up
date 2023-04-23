@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "verzin",
+        "je": "verzint",
+        "hij": "verzint",
+        "het": "verzint",
+        "we": "verzinnen",
+        "jullie": "verzinnen",
+        "ze": "verzinnen"
+    },
+    "imperfectum": {
+        "ik": "verzon",
+        "je": "verzon",
+        "hij": "verzon",
+        "het": "verzon",
+        "we": "verzonnen",
+        "jullie": "verzonnen",
+        "ze": "verzonnen"
+    },
+    "perfectum": {
+        "ik": "heb verzonnen",
+        "je": "hebt verzonnen",
+        "hij": "heeft verzonnen",
+        "het": "heeft verzonnen",
+        "we": "hebben verzonnen",
+        "jullie": "hebben verzonnen",
+        "ze": "hebben verzonnen"
+    },
+    "plusquamperfectum": {
+        "ik": "had verzonnen",
+        "je": "had verzonnen",
+        "hij": "had verzonnen",
+        "het": "had verzonnen",
+        "we": "hadden verzonnen",
+        "jullie": "hadden verzonnen",
+        "ze": "hadden verzonnen"
+    },
+    "voorbeelden": [
+        "We moeten iets verzinnen.",
+        "Daarom moeten wij in de toekomst iets anders verzinnen.",
+        "De kinderen verzinnen de namen van de landen – sommige zijn rijk, sommige zijn arm.",
+        "Dit is één van die dingen die je zo gek niet kan verzinnen.",
+        "Dat laatste heb ik zelf verzonnen."
+    ],
+    "vertalingen": [
+        "to invent",
+        "to make up"
+    ]
+}

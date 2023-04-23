@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "verbied",
+        "je": "verbiedt",
+        "hij": "verbiedt",
+        "het": "verbiedt",
+        "we": "verbieden",
+        "jullie": "verbieden",
+        "ze": "verbieden"
+    },
+    "imperfectum": {
+        "ik": "verbood",
+        "je": "verbood",
+        "hij": "verbood",
+        "het": "verbood",
+        "we": "verboden",
+        "jullie": "verboden",
+        "ze": "verboden"
+    },
+    "perfectum": {
+        "ik": "heb verboden",
+        "je": "hebt verboden",
+        "hij": "heeft verboden",
+        "het": "heeft verboden",
+        "we": "hebben verboden",
+        "jullie": "hebben verboden",
+        "ze": "hebben verboden"
+    },
+    "plusquamperfectum": {
+        "ik": "had verboden",
+        "je": "had verboden",
+        "hij": "had verboden",
+        "het": "had verboden",
+        "we": "hadden verboden",
+        "jullie": "hadden verboden",
+        "ze": "hadden verboden"
+    },
+    "voorbeelden": [
+        "Wij kunnen sigarettenautomaten verbieden.",
+        "Het is verboden om hier te fietsen. Je mag hier alleen lopen.",
+        "Het gebruik van manipulatiestrategieën is verboden.",
+        "Waarom zouden we de gevaarlijke batterijen niet verbieden?"
+    ],
+    "vertalingen": [
+        "to prohibit",
+        "to forbid",
+        "to ban",
+        "to illegalize"
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "presens": {
+        "ik": "uit",
+        "je": "uit",
+        "hij": "uit",
+        "het": "uit",
+        "we": "uiten",
+        "jullie": "uiten",
+        "ze": "uiten"
+    },
+    "imperfectum": {
+        "ik": "uitte",
+        "je": "uitte",
+        "hij": "uitte",
+        "het": "uitte",
+        "we": "uitten",
+        "jullie": "uitten",
+        "ze": "uitten"
+    },
+    "perfectum": {
+        "ik": "heb geuit",
+        "je": "hebt geuit",
+        "hij": "heeft geuit",
+        "het": "heeft geuit",
+        "we": "hebben geuit",
+        "jullie": "hebben geuit",
+        "ze": "hebben geuit"
+    },
+    "plusquamperfectum": {
+        "ik": "had geuit",
+        "je": "had geuit",
+        "hij": "had geuit",
+        "het": "had geuit",
+        "we": "hadden geuit",
+        "jullie": "hadden geuit",
+        "ze": "hadden geuit"
+    },
+    "voorbeelden": [
+        "Zij mogen vrijelijk hun mening uiten.",
+        "Ik wil hier mijn protest uiten.",
+        "Ondanks de geboekte resultaten moeten we onze bezorgdheid uiten.",
+        "Ik wilde alleen mijn solidariteit uiten.",
+        "Ik wil gewoon mijn dankbaarheid uiten.",
+        "Zij hebben onze steun nodig om hun zorgen te kunnen uiten.",
+        "Dronken mensen uiten hun ware gevoelens.",
+        "Hij kan de juridische verantwoordelijkheid op zich nemen voor de beschuldigingen die hij heeft geuit."
+    ],
+    "vertalingen": [
+        "to express",
+        "to say",
+        "to vent",
+        "to voice"
+    ]
+}

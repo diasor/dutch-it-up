@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "onderhandel",
+        "je": "onderhandelt",
+        "hij": "onderhandelt",
+        "het": "onderhandelt",
+        "wij": "onderhandelen",
+        "jullie": "onderhandelen",
+        "ze": "onderhandelen"
+    },
+    "imperfectum": {
+        "ik": "onderhandelde",
+        "je": "onderhandelde",
+        "hij": "onderhandelde",
+        "het": "onderhandelde",
+        "we": "onderhandelden",
+        "jullie": "onderhandelden",
+        "ze": "onderhandelden"
+    },
+    "perfectum": {
+        "ik": "heb onderhandeld",
+        "je": "hebt onderhandeld",
+        "hij": "heeft onderhandeld",
+        "het": "heeft onderhandeld",
+        "we": "hebben onderhandeld",
+        "jullie": "hebben onderhandeld",
+        "ze": "hebben onderhandeld"
+    },
+    "plusquamperfectum": {
+        "ik": "had onderhandeld",
+        "je": "had onderhandeld",
+        "hij": "had onderhandeld",
+        "het": "had onderhandeld",
+        "we": "hadden onderhandeld",
+        "jullie": "hadden onderhandeld",
+        "ze": "hadden onderhandeld"
+    },
+    "voorbeelden": [
+        "We willen onderhandelen. ",
+        "We moeten onderhandelen met de Commissie en we moeten onderhandelen met de Raad.",
+        "In Somalië is moorden hetzelfde als onderhandelen.",
+        "Met Moeder Aarde valt niet te onderhandelen."
+    ],
+    "vertalingen": [
+        "to negotiate"
+    ]
+}

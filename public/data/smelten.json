@@ -1,0 +1,46 @@
+{
+    "presens": {
+        "ik": "smelt",
+        "je": "smelt",
+        "hij": "smelt",
+        "het": "smelt",
+        "we": "smelten",
+        "jullie": "smelten",
+        "ze": "smelten"
+    },
+    "imperfectum": {
+        "ik": "smolt",
+        "je": "smolt",
+        "hij": "smolt",
+        "het": "smolt",
+        "we": "smolten",
+        "jullie": "smolten",
+        "ze": "smolten"
+    },
+    "perfectum": {
+        "ik": "heb gesmolten",
+        "je": "hebt gesmolten",
+        "hij": "heeft gesmolten",
+        "het": "heeft gesmolten",
+        "we": "hebben gesmolten",
+        "jullie": "hebben gesmolten",
+        "ze": "hebben gesmolten"
+    },
+    "plusquamperfectum": {
+        "ik": "had gesmolten",
+        "je": "had gesmolten",
+        "hij": "had gesmolten",
+        "het": "had gesmolten",
+        "we": "hadden gesmolten",
+        "jullie": "hadden gesmolten",
+        "ze": "hadden gesmolten"
+    },
+    "voorbeelden": [
+        "De ijskappen smelten en dat is meetbaar.",
+        "Na zes maanden kunnen we zien dat de tumor erop reageerde en begon weg te smelten.",
+        "Als de permafrost in het Noorden gaat smelten, heeft dat allerlei rampen tot gevolg."
+    ],
+    "vertalingen": [
+        "to melt"
+    ]
+}

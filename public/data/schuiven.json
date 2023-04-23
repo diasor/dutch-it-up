@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "schuif",
+        "je": "schuift",
+        "hij": "schuift",
+        "het": "schuift",
+        "we": "schuiven",
+        "jullie": "schuiven",
+        "ze": "schuiven"
+    },
+    "imperfectum": {
+        "ik": "schoof",
+        "je": "schoof",
+        "hij": "schoof",
+        "het": "schoof",
+        "we": "schoven",
+        "jullie": "schoven",
+        "ze": "schoven"
+    },
+    "perfectum": {
+        "ik": "heb geschoven",
+        "je": "hebt geschoven",
+        "hij": "heeft geschoven",
+        "het": "heeft geschoven",
+        "we": "hebben geschoven",
+        "jullie": "hebben geschoven",
+        "ze": "hebben geschoven"
+    },
+    "plusquamperfectum": {
+        "ik": "had geschoven",
+        "je": "had geschoven",
+        "hij": "had geschoven",
+        "het": "had geschoven",
+        "we": "hadden geschoven",
+        "jullie": "hadden geschoven",
+        "ze": "hadden geschoven"
+    },
+    "voorbeelden": [
+        "Wil iedereen z'n mobiele telefoon naar het midden schuiven.",
+        "Er is een envelop onder mijn deur geschoven.",
+        "De langetermijnrisico's worden helaas onder het tapijt geschoven.",
+        "Iemand schoof mijn werktafel zeven centimeter naar rechts."
+    ],
+    "vertalingen": [
+        "to shove",
+        "to push along",
+        "to move"
+    ]
+}

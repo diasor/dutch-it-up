@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "bevestig",
+        "je": "bevestigt",
+        "hij": "bevestigt",
+        "het": "bevestigt",
+        "we": "bevestigen",
+        "jullie": "bevestigen",
+        "ze": "bevestigen"
+    },
+    "imperfectum": {
+        "ik": "bevestigde",
+        "je": "bevestigde",
+        "hij": "bevestigde",
+        "het": "bevestigde",
+        "we": "bevestigden",
+        "jullie": "bevestigden",
+        "ze": "bevestigden"
+    },
+    "perfectum": {
+        "ik": "heb bevestigd",
+        "je": "hebt bevestigd",
+        "hij": "heeft bevestigd",
+        "het": "heeft bevestigd",
+        "we": "hebben bevestigd",
+        "jullie": "hebben bevestigd",
+        "ze": "hebben bevestigd"
+    },
+    "plusquamperfectum": {
+        "ik": "had bevestigd",
+        "je": "had bevestigd",
+        "hij": "had bevestigd",
+        "het": "had bevestigd",
+        "we": "hadden bevestigd",
+        "jullie": "hadden bevestigd",
+        "ze": "hadden bevestigd"
+    },
+    "voorbeelden": [
+        "Kunt u dat bevestigen?",
+        "Ik kan dat niet bevestigen.",
+        "Ik zou uw commentaar willen bevestigen.",
+        "Zou u willen bevestigen dat ik dit correct geïnterpreteerd heb?"
+    ],
+    "vertalingen": [
+        "to affirm",
+        "to corroborate"
+    ]
+}

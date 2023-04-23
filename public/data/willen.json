@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "wil",
+        "je": "wilt",
+        "hij": "wilt",
+        "het": "wilt",
+        "we": "willen",
+        "jullie": "willen",
+        "ze": "willen"
+    },
+    "imperfectum": {
+        "ik": "wilde",
+        "je": "wilde",
+        "hij": "wilde",
+        "het": "wilde",
+        "we": "wilden",
+        "jullie": "wilden",
+        "ze": "wilden"
+    },
+    "perfectum": {
+        "ik": "heb gewild",
+        "je": "hebt gewild",
+        "hij": "heeft gewild",
+        "het": "heeft gewild",
+        "we": "hebben gewild",
+        "jullie": "hebben gewild",
+        "ze": "hebben gewild"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewild",
+        "je": "had gewild",
+        "hij": "had gewild",
+        "het": "had gewild",
+        "we": "hadden gewild",
+        "jullie": "hadden gewild",
+        "ze": "hadden gewild"
+    },
+    "voorbeelden": [
+        "Ze brengen ons waar we willen wanneer we willen.",
+        "Willen jullie wat fruit?",
+        "Wij willen politieke maatregelen.",
+        "We willen vechten.",
+        "Kinderen willen dingen doen."
+    ],
+    "vertalingen": [
+        "to want"
+    ]
+}

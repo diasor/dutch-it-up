@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "trek af",
+        "je": "trekt af",
+        "hij": "trekt af",
+        "het": "trekt af",
+        "we": "trekken af",
+        "jullie": "trekken af",
+        "ze": "trekken af"
+    },
+    "imperfectum": {
+        "ik": "trok af",
+        "je": "trok af",
+        "hij": "trok af",
+        "het": "trok af",
+        "we": "trokken af",
+        "jullie": "trokken af",
+        "ze": "trokken af"
+    },
+    "perfectum": {
+        "ik": "heb afgetrokken",
+        "je": "hebt afgetrokken",
+        "hij": "heeft afgetrokken",
+        "het": "heeft afgetrokken",
+        "we": "hebben afgetrokken",
+        "jullie": "hebben afgetrokken",
+        "ze": "hebben afgetrokken"
+    },
+    "plusquamperfectum": {
+        "ik": "had afgetrokken",
+        "je": "had afgetrokken",
+        "hij": "had afgetrokken",
+        "het": "had afgetrokken",
+        "we": "hadden afgetrokken",
+        "jullie": "hadden afgetrokken",
+        "ze": "hadden afgetrokken"
+    },
+    "voorbeelden": [
+        "IWe moeten ervoor zorgen dat de vrijwilligers hun kosten fiscaal kunnen aftrekken.",
+        "Laten wij de vrachtwagens betalen voor de kosten van de autowegen of gaan wij de infrastructuurkosten van de spoorwegen aftrekken?",
+        "Bovendien moeten in de toekomst belastingen worden afgetrokken op nationale basis en niet door de EU.",
+        "Bij de transactie was er iets misgegaan: van het geld dat hij had overhandigd was onterecht een bepaald bedrag afgetrokken.",
+        "Kunt u dit van mijn spreektijd aftrekken?"
+    ],
+    "vertalingen": [
+        "to decrease",
+        "to substract",
+        "to count down",
+        "to withdraw"
+    ]
+}

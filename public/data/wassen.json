@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "was",
+        "je": "wast",
+        "hij": "wast",
+        "het": "wast",
+        "we": "wassen",
+        "jullie": "wassen",
+        "ze": "wassen"
+    },
+    "imperfectum": {
+        "ik": "waste",
+        "je": "waste",
+        "hij": "waste",
+        "het": "waste",
+        "we": "wasten",
+        "jullie": "wasten",
+        "ze": "wasten"
+    },
+    "perfectum": {
+        "ik": "heb gewassen",
+        "je": "hebt gewassen",
+        "hij": "heeft gewassen",
+        "het": "heeft gewassen",
+        "we": "hebben gewassen",
+        "jullie": "hebben gewassen",
+        "ze": "hebben gewassen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewassen",
+        "je": "had gewassen",
+        "hij": "had gewassen",
+        "het": "had gewassen",
+        "we": "hadden gewassen",
+        "jullie": "hadden gewassen",
+        "ze": "hadden gewassen"
+    },
+    "voorbeelden": [
+        "Ik moet dit wassen, het stink!",
+        "Hoe gaan wij dit varkentje wassen?",
+        "Zij kunnen nu hun handen niet in onschuld wassen.",
+        "Er was het handen wassen."
+    ],
+    "vertalingen": [
+        "to wash"
+    ]
+}

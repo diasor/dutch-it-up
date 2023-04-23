@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "schakel over",
+        "je": "schakelt over",
+        "hij": "schakelt over",
+        "het": "schakelt over",
+        "we": "schakelen over",
+        "jullie": "schakelen over",
+        "ze": "schakelen over"
+    },
+    "imperfectum": {
+        "ik": "schakelde over",
+        "je": "schakelde over",
+        "hij": "schakelde over",
+        "het": "schakelde over",
+        "we": "schakelden over",
+        "jullie": "schakelden over",
+        "ze": "schakelden over"
+    },
+    "perfectum": {
+        "ik": "heb overgeschakeld",
+        "je": "hebt overgeschakeld",
+        "hij": "heeft overgeschakeld",
+        "het": "heeft overgeschakeld",
+        "we": "hebben overgeschakeld",
+        "jullie": "hebben overgeschakeld",
+        "ze": "hebben overgeschakeld"
+    },
+    "plusquamperfectum": {
+        "ik": "had overgeschakeld",
+        "je": "had overgeschakeld",
+        "hij": "had overgeschakeld",
+        "het": "had overgeschakeld",
+        "we": "hadden overgeschakeld",
+        "jullie": "hadden overgeschakeld",
+        "ze": "hadden overgeschakeld"
+    },
+    "voorbeelden": [
+        "Ze overschakelen op Engels naar Nederlands",
+        "Daarnaast wordt ook het overschakelen op hernieuwbare energiebronnen verkend.",
+        "We maken het eenvoudig om over te schakelen.",
+        "We schakelen over naar een andere camera.",
+        "Ik dwong mezelf die vragen te beantwoorden."
+    ],
+    "vertalingen": [
+        "to switch",
+        "to switch over"
+    ]
+}

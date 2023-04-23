@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "twijfel",
+        "je": "twijfelt",
+        "hij": "twijfelt",
+        "het": "twijfelt",
+        "we": "twijfelen",
+        "jullie": "twijfelen",
+        "ze": "twijfelen"
+    },
+    "imperfectum": {
+        "ik": "twijfelde",
+        "je": "twijfelde",
+        "hij": "twijfelde",
+        "het": "twijfelde",
+        "we": "twijfelden",
+        "jullie": "twijfelden",
+        "ze": "twijfelden"
+    },
+    "perfectum": {
+        "ik": "heb getwijfeld",
+        "je": "hebt getwijfeld",
+        "hij": "heeft getwijfeld",
+        "het": "heeft getwijfeld",
+        "we": "hebben getwijfeld",
+        "jullie": "hebben getwijfeld",
+        "ze": "hebben getwijfeld"
+    },
+    "plusquamperfectum": {
+        "ik": "had getwijfeld",
+        "je": "had getwijfeld",
+        "hij": "had getwijfeld",
+        "het": "had getwijfeld",
+        "we": "hadden getwijfeld",
+        "jullie": "hadden getwijfeld",
+        "ze": "hadden getwijfeld"
+    },
+    "voorbeelden": [
+        "Ik begin te twijfelen.",
+        "We hebben lang getwijfeld over de kleuren.",
+        "Sommigen hebben getwijfeld aan de relevantie van deze organisatie.",
+        "Ik heb nooit aan je loyaliteit getwijfeld."
+    ],
+    "vertalingen": [
+        "to doubt",
+        "to have second thoughts"
+    ]
+}

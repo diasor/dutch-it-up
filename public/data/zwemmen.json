@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "zwem",
+        "je": "zwemt",
+        "hij": "zwemt",
+        "het": "zwemt",
+        "we": "zwemmen",
+        "jullie": "zwemmen",
+        "ze": "zwemmen"
+    },
+    "imperfectum": {
+        "ik": "zwom",
+        "je": "zwom",
+        "hij": "zwom",
+        "het": "zwom",
+        "we": "zwommen",
+        "jullie": "zwommen",
+        "ze": "zwommen"
+    },
+    "perfectum": {
+        "ik": "heb gezwommen",
+        "je": "hebt gezwommen",
+        "hij": "heeft gezwommen",
+        "het": "heeft gezwommen",
+        "we": "hebben gezwommen",
+        "jullie": "hebben gezwommen",
+        "ze": "hebben gezwommen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gezwommen",
+        "je": "had gezwommen",
+        "hij": "had gezwommen",
+        "het": "had gezwommen",
+        "we": "hadden gezwommen",
+        "jullie": "hadden gezwommen",
+        "ze": "hadden gezwommen"
+    },
+    "voorbeelden": [
+        "Verder wordt er gezwommen en gesnorkeld.",
+        "Daarna hebben we nog even gezwommen.",
+        "We gaan niet zwemmen. ",
+        "Je kunt dit bakrecept eenvoudig bakken voor heerlijke chocoladebolletjes.",
+        "Die gezwommen bananen zijn wel calorierijk.",
+        "Niet meer dan om gezwommen garnalen."
+    ],
+    "vertalingen": [
+        "to swim"
+    ]
+}

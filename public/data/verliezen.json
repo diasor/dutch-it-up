@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "verlies",
+        "je": "verliest",
+        "hij": "verliest",
+        "het": "verliest",
+        "we": "verliezen",
+        "jullie": "verliezen",
+        "ze": "verliezen"
+    },
+    "imperfectum": {
+        "ik": "verloor",
+        "je": "verloor",
+        "hij": "verloor",
+        "het": "verloor",
+        "we": "verloren",
+        "jullie": "verloren",
+        "ze": "verloren"
+    },
+    "perfectum": {
+        "ik": "heb verloren",
+        "je": "hebt verloren",
+        "hij": "heeft verloren",
+        "het": "heeft verloren",
+        "we": "hebben verloren",
+        "jullie": "hebben verloren",
+        "ze": "hebben verloren"
+    },
+    "plusquamperfectum": {
+        "ik": "had verloren",
+        "je": "had verloren",
+        "hij": "had verloren",
+        "het": "had verloren",
+        "we": "hadden verloren",
+        "jullie": "hadden verloren",
+        "ze": "hadden verloren"
+    },
+    "voorbeelden": [
+        "We mogen niemand verliezen.",
+        "Ze verliezen de menselijkheid.",
+        "Wij mogen geen tijd verliezen.",
+        "Ik wil je niet verliezen zoals ik mijn moeder verloor.",
+        "Uiteraard kunnen de boeren niet van verliezen leven."
+    ],
+    "vertalingen": [
+        "to lose"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "presens": {
+        "ik": "voer",
+        "je": "voert",
+        "hij": "voert",
+        "het": "voert",
+        "we": "voeren",
+        "jullie": "voeren",
+        "ze": "voeren"
+    },
+    "imperfectum": {
+        "ik": "voerde",
+        "je": "voerde",
+        "hij": "voerde",
+        "het": "voerde",
+        "we": "voerde",
+        "jullie": "voerde",
+        "ze": "voerde"
+    },
+    "perfectum": {
+        "ik": "heb gevoerd",
+        "je": "hebt gevoerd",
+        "hij": "heeft gevoerd",
+        "het": "heeft gevoerd",
+        "we": "hebben gevoerd",
+        "jullie": "hebben gevoerd",
+        "ze": "hebben gevoerd"
+    },
+    "plusquamperfectum": {
+        "ik": "had gevoerd",
+        "je": "had gevoerd",
+        "hij": "had gevoerd",
+        "het": "had gevoerd",
+        "we": "hadden gevoerd",
+        "jullie": "hadden gevoerd",
+        "ze": "hadden gevoerd"
+    },
+    "voorbeelden": [
+        "Ik vind het moeilijk om een telefoongesprek te voeren als er veel lawaai is.",
+        "We voeren momenteel een debat.",
+        "Er was geen geforceerd voeren.",
+        "Die discussie voeren wij op dit moment.",
+        "Die voeren hun eigen beleid.",
+        "We voeren vertrouwelijke gesprekken met de lidstaten."
+    ],
+    "vertalingen": [
+        "to carry",
+        "to conduct",
+        "to guide",
+        "to feed"
+    ]
+}

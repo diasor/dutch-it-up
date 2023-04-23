@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "bederf",
+        "je": "bederft",
+        "hij": "bederft",
+        "het": "bederft",
+        "we": "bederven",
+        "jullie": "bederven",
+        "ze": "bederven"
+    },
+    "imperfectum": {
+        "ik": "bedierf",
+        "je": "bedierf",
+        "hij": "bedierf",
+        "het": "bedierf",
+        "we": "bedierven",
+        "jullie": "bedierven",
+        "ze": "bedierven"
+    },
+    "perfectum": {
+        "ik": "heb bedorven",
+        "je": "hebt bedorven",
+        "hij": "heeft bedorven",
+        "het": "heeft bedorven",
+        "we": "hebben bedorven",
+        "jullie": "hebben bedorven",
+        "ze": "hebben bedorven"
+    },
+    "plusquamperfectum": {
+        "ik": "had bedorven",
+        "je": "had bedorven",
+        "hij": "had bedorven",
+        "het": "had bedorven",
+        "we": "hadden bedorven",
+        "jullie": "hadden bedorven",
+        "ze": "hadden bedorven"
+    },
+    "voorbeelden": [
+        "Vroeger werden producten die begonnen te bederven bestraald om het oog te misleiden.",
+        "Ik heb geen zin om mijn eetlust vóór de lunch te bederven.",
+        "Een spreekwoord zegt: veel koks bederven de brij. "
+    ],
+    "vertalingen": [
+        "to spoil",
+        "to damage",
+        "to mess up"
+    ]
+}

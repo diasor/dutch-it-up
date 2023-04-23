@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "neem af",
+        "je": "neemt af",
+        "hij": "neemt af",
+        "het": "neemt af",
+        "we": "nemen af",
+        "jullie": "nemen af",
+        "ze": "nemen af"
+    },
+    "imperfectum": {
+        "ik": "nam af",
+        "je": "nam af",
+        "hij": "nam af",
+        "het": "nam af",
+        "we": "namen af",
+        "jullie": "namen af",
+        "ze": "namen af"
+    },
+    "perfectum": {
+        "ik": "heb afgenomen",
+        "je": "hebt afgenomen",
+        "hij": "heeft afgenomen",
+        "het": "heeft afgenomen",
+        "we": "hebben afgenomen",
+        "jullie": "hebben afgenomen",
+        "ze": "hebben afgenomen"
+    },
+    "plusquamperfectum": {
+        "ik": "had afgenomen",
+        "je": "had afgenomen",
+        "hij": "had afgenomen",
+        "het": "had afgenomen",
+        "we": "hadden afgenomen",
+        "jullie": "hadden afgenomen",
+        "ze": "hadden afgenomen"
+    },
+    "voorbeelden": [
+        "De interesse in antiquarische boeken neemt af.",
+        "Andere nadelige ecologische effecten zullen ook afnemen.",
+        "De nationale regeringen moeten zich dit recht niet laten afnemen.",
+        "Ik wil hun aantal zien groeien, niet zien afnemen."
+    ],
+    "vertalingen": [
+        "to decrease"
+    ]
+}

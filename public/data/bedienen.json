@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "bedien",
+        "je": "bedient",
+        "hij": "bedient",
+        "het": "bedient",
+        "we": "bedienen",
+        "jullie": "bedienen",
+        "ze": "bedienen"
+    },
+    "imperfectum": {
+        "ik": "bediende",
+        "je": "bediende",
+        "hij": "bediende",
+        "het": "bediende",
+        "we": "bedienden",
+        "jullie": "bedienden",
+        "ze": "bedienden"
+    },
+    "perfectum": {
+        "ik": "heb bediend",
+        "je": "hebt bediend",
+        "hij": "heeft bediend",
+        "het": "heeft bediend",
+        "we": "hebben bediend",
+        "jullie": "hebben bediend",
+        "ze": "hebben bediend"
+    },
+    "plusquamperfectum": {
+        "ik": "had bediend",
+        "je": "had bediend",
+        "hij": "had bediend",
+        "het": "had bediend",
+        "we": "hadden bediend",
+        "jullie": "hadden bediend",
+        "ze": "hadden bediend"
+    },
+    "voorbeelden": [
+        "William eet graag in een restaurant. Hij vindt het heerlijk dat obers en serveersters hem bedienen en hij niets hoeft te doen",
+        "Ik heb geen zin om mijn eetlust vóór de lunch te bederven.",
+        "Hij moet naar beneden omdat we proberen een bevolking te bedienen die leeft van één dollar per dag."
+    ],
+    "vertalingen": [
+        "to serve",
+        "to operate"
+    ]
+}

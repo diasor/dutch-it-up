@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "stap af",
+        "je": "stapt af",
+        "hij": "stapt af",
+        "het": "stapt af",
+        "we": "stappen af",
+        "jullie": "stappen af",
+        "ze": "stappen af"
+    },
+    "imperfectum": {
+        "ik": "stapte af",
+        "je": "stapte af",
+        "hij": "stapte af",
+        "het": "stapte af",
+        "we": "stapten af",
+        "jullie": "stapten af",
+        "ze": "stapten af"
+    },
+    "perfectum": {
+        "ik": "heb afgestapt",
+        "je": "hebt afgestapt",
+        "hij": "heeft afgestapt",
+        "het": "heeft afgestapt",
+        "we": "hebben afgestapt",
+        "jullie": "hebben afgestapt",
+        "ze": "hebben afgestapt"
+    },
+    "plusquamperfectum": {
+        "ik": "had afgestapt",
+        "je": "had afgestapt",
+        "hij": "had afgestapt",
+        "het": "had afgestapt",
+        "we": "hadden afgestapt",
+        "jullie": "hadden afgestapt",
+        "ze": "hadden afgestapt"
+    },
+    "voorbeelden": [
+        "Waar fietsen verboden is, moeten fietsers afstappen en te voet verder gaan.",
+        "Maar een van jullie moet afstappen.",
+        "Maar we kunnen niet zomaar afstappen van het kind.",
+        "We zijn vorig jaar afgestapt van regionale marketingteams.",
+        "Het bedrijf is afgestapt van diverse productiecomponenten en -processen die mogelijk schadelijke gevolgen hebben voor het milieu."
+    ],
+    "vertalingen": [
+        "to get off",
+        "to dismount",
+        "to abandon"
+    ]
+}

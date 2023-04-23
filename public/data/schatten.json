@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "schat",
+        "je": "schat",
+        "hij": "schat",
+        "het": "schat",
+        "we": "schatten",
+        "jullie": "schatten",
+        "ze": "schatten"
+    },
+    "imperfectum": {
+        "ik": "schatte",
+        "je": "schatte",
+        "hij": "schatte",
+        "het": "schatte",
+        "we": "schatten",
+        "jullie": "schatten",
+        "ze": "schatten"
+    },
+    "perfectum": {
+        "ik": "heb geschat",
+        "je": "hebt geschat",
+        "hij": "heeft geschat",
+        "het": "heeft geschat",
+        "we": "hebben geschat",
+        "jullie": "hebben geschat",
+        "ze": "hebben geschat"
+    },
+    "plusquamperfectum": {
+        "ik": "had geschat",
+        "je": "had geschat",
+        "hij": "had geschat",
+        "het": "had geschat",
+        "we": "hadden geschat",
+        "jullie": "hadden geschat",
+        "ze": "hadden geschat"
+    },
+    "voorbeelden": [
+        "Ik schat dat hij ongeveer twintig jaar is. Ik weet het niet zeker, maar ik denk dat hij niet ouder is.",
+        "De materiële schade is groot, maar moeilijk te schatten.",
+        "De politiediensten schatten de schade op ongeveer 1 miljard dollar per jaar.",
+        "Ze schatten voor 2008 dat Kenia een kindsterfte van 128 had. "
+    ],
+    "vertalingen": [
+        "to estimate",
+        "to rate"
+    ]
+}

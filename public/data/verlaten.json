@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "verlaat",
+        "je": "verlaat",
+        "hij": "verlaat",
+        "het": "verlaat",
+        "we": "verlaten",
+        "jullie": "verlaten",
+        "ze": "verlaten"
+    },
+    "imperfectum": {
+        "ik": "verliet",
+        "je": "verliet",
+        "hij": "verliet",
+        "het": "verliet",
+        "we": "verliet",
+        "jullie": "verliet",
+        "ze": "verliet"
+    },
+    "perfectum": {
+        "ik": "heb verlaten",
+        "je": "hebt verlaten",
+        "hij": "heeft verlaten",
+        "het": "heeft verlaten",
+        "we": "hebben verlaten",
+        "jullie": "hebben verlaten",
+        "ze": "hebben verlaten"
+    },
+    "plusquamperfectum": {
+        "ik": "had verlaten",
+        "je": "had verlaten",
+        "hij": "had verlaten",
+        "het": "had verlaten",
+        "we": "hadden verlaten",
+        "jullie": "hadden verlaten",
+        "ze": "hadden verlaten"
+    },
+    "voorbeelden": [
+        "Ze moeten hun moederland verlaten om te overleven.",
+        "Mensen, gelieve de tentoonstelling te verlaten.",
+        "Ik zal de residentie niet verlaten.",
+        "We zullen je niet verlaten.",
+        "Je verliet gisteravond haastig de wedstrijd.",
+        "Niemand kwam binnen of verliet het kantoor eerder."
+    ],
+    "vertalingen": [
+        "to abandon",
+        "to exit",
+        "to leave"
+    ]
+}

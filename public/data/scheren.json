@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "scheer",
+        "je": "scheert",
+        "hij": "scheert",
+        "het": "scheert",
+        "we": "scheren",
+        "jullie": "scheren",
+        "ze": "scheren"
+    },
+    "imperfectum": {
+        "ik": "schoor",
+        "je": "schoor",
+        "hij": "schoor",
+        "het": "schoor",
+        "we": "schoren",
+        "jullie": "schoren",
+        "ze": "schoren"
+    },
+    "perfectum": {
+        "ik": "heb geschoren",
+        "je": "hebt geschoren",
+        "hij": "heeft geschoren",
+        "het": "heeft geschoren",
+        "we": "hebben geschoren",
+        "jullie": "hebben geschoren",
+        "ze": "hebben geschoren"
+    },
+    "plusquamperfectum": {
+        "ik": "had geschoren",
+        "je": "had geschoren",
+        "hij": "had geschoren",
+        "het": "had geschoren",
+        "we": "hadden geschoren",
+        "jullie": "hadden geschoren",
+        "ze": "hadden geschoren"
+    },
+    "voorbeelden": [
+        "Wij mogen niet iedereen over dezelfde kam scheren.",
+        "We kunnen alle diensten niet over één kam scheren."
+    ],
+    "vertalingen": [
+        "to shave",
+        "to clip",
+        "to cut"
+    ]
+}

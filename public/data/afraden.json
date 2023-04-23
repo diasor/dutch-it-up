@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "raad af",
+        "je": "raadt af",
+        "hij": "aadt af",
+        "het": "aadt af",
+        "we": "raden af",
+        "jullie": "raden af",
+        "ze": "raden af"
+    },
+    "imperfectum": {
+        "ik": "raadde af",
+        "je": "raadde af",
+        "hij": "raadde af",
+        "het": "raadde af",
+        "we": "raadden af",
+        "jullie": "raadden af",
+        "ze": "raadden af"
+    },
+    "perfectum": {
+        "ik": "heb afgeraden",
+        "je": "hebt afgeraden",
+        "hij": "heeft afgeraden",
+        "het": "heeft afgeraden",
+        "we": "hebben afgeraden",
+        "jullie": "hebben afgeraden",
+        "ze": "hebben afgeraden"
+    },
+    "plusquamperfectum": {
+        "ik": "had afgeraden",
+        "je": "had afgeraden",
+        "hij": "had afgeraden",
+        "het": "had afgeraden",
+        "we": "hadden afgeraden",
+        "jullie": "hadden afgeraden",
+        "ze": "hadden afgeraden"
+    },
+    "voorbeelden": [
+        "Als je niet van grote groepen mensen houdt, kun je beter niet naar koningsdag naar Amsterdam gaan. Dat raad ik je echt af want het is dan heel erg druk",
+        "Ze wilde de film zien, maar dat heb ik afgeraden. De film zit vol geweld en vloeken.",
+        "Reizen werden afgeraden en uitstapjes massaal geannuleerd.",
+        "Mijn dokter heeft het me afgeraden.",
+        "Het drinken van light frisdranken kan bij sommige mensen de ketose verstoren en wordt daarom vaak afgeraden."
+    ],
+    "vertalingen": [
+        "to advise against",
+        "to dissuade",
+        "discourage"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "presens": {
+        "ik": "sluit aan",
+        "je": "sluit aan",
+        "hij": "sluit aan",
+        "het": "sluit aan",
+        "we": "sluiten aan",
+        "jullie": "sluiten aan",
+        "ze": "sluiten aan"
+    },
+    "imperfectum": {
+        "ik": "sloot aan",
+        "je": "sloot aan",
+        "hij": "sloot aan",
+        "het": "sloot aan",
+        "we": "sloten aan",
+        "jullie": "sloten aan",
+        "ze": "sloten aan"
+    },
+    "perfectum": {
+        "ik": "heb aangesloten",
+        "je": "hebt aangesloten",
+        "hij": "heeft aangesloten",
+        "het": "heeft aangesloten",
+        "we": "hebben aangesloten",
+        "jullie": "hebben aangesloten",
+        "ze": "hebben aangesloten"
+    },
+    "plusquamperfectum": {
+        "ik": "had aangesloten",
+        "je": "had aangesloten",
+        "hij": "had aangesloten",
+        "het": "had aangesloten",
+        "we": "hadden aangesloten",
+        "jullie": "hadden aangesloten",
+        "ze": "hadden aangesloten"
+    },
+    "voorbeelden": [
+        "Ik kan me bij deze doelstelling aansluiten.",
+        "De printer is niet aangesloten op de computer, daarom doet hij het niet.",
+        "Ben je bij een beroepsvereniging aangesloten?",
+        "Als we ons aansluiten bij de EMU verliezen we onze economische onafhankelijkheid.",
+        "Wij hopen uiteraard dat de hele donorgemeenschap zich bij ons zal aansluiten.",
+        "Als Europese Unie moeten we ons zoveel mogelijk aansluiten bij internationale initiatieven op dit terrein."
+    ],
+    "vertalingen": [
+        "to connect",
+        "to join",
+        "to associate",
+        "to bind"
+    ]
+}

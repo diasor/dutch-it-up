@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "wijs",
+        "je": "wijst",
+        "hij": "wijst",
+        "het": "wijst",
+        "we": "wijzen",
+        "jullie": "wijzen",
+        "ze": "wijzen"
+    },
+    "imperfectum": {
+        "ik": "wees",
+        "je": "wees",
+        "hij": "wees",
+        "het": "wees",
+        "we": "wezen",
+        "jullie": "wezen",
+        "ze": "wezen"
+    },
+    "perfectum": {
+        "ik": "heb gewezen",
+        "je": "hebt gewezen",
+        "hij": "heeft gewezen",
+        "het": "heeft gewezen",
+        "we": "hebben gewezen",
+        "jullie": "hebben gewezen",
+        "ze": "hebben gewezen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewezen",
+        "je": "had gewezen",
+        "hij": "had gewezen",
+        "het": "had gewezen",
+        "we": "hadden gewezen",
+        "jullie": "hadden gewezen",
+        "ze": "hadden gewezen"
+    },
+    "voorbeelden": [
+        "Alle indicatoren wijzen daarop.",
+        "Haar creditcard- en telefoongegevens wijzen niet op een affaire.",
+        "Dat lijkt op slecht onderhoud te wijzen.",
+        "Ik denk dat daar in dit Parlement op gewezen moet worden.",
+        "Verschillende collega's hebben gewezen op het belang van openheid."
+    ],
+    "vertalingen": [
+        "to show",
+        "to indicate",
+        "to point",
+        "to point out"
+    ]
+}

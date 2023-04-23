@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "beschouw",
+        "je": "beschouwt",
+        "hij": "beschouwt",
+        "het": "beschouwt",
+        "we": "beschouwen",
+        "jullie": "beschouwen",
+        "ze": "beschouwen"
+    },
+    "imperfectum": {
+        "ik": "beschouwde",
+        "je": "beschouwde",
+        "hij": "beschouwde",
+        "het": "beschouwde",
+        "we": "beschouwden",
+        "jullie": "beschouwden",
+        "ze": "beschouwden"
+    },
+    "perfectum": {
+        "ik": "heb beschouwd",
+        "je": "hebt beschouwd",
+        "hij": "heeft beschouwd",
+        "het": "heeft beschouwd",
+        "we": "hebben beschouwd",
+        "jullie": "hebben beschouwd",
+        "ze": "hebben beschouwd"
+    },
+    "plusquamperfectum": {
+        "ik": "had beschouwd",
+        "je": "had beschouwd",
+        "hij": "had beschouwd",
+        "het": "had beschouwd",
+        "we": "hadden beschouwd",
+        "jullie": "hadden beschouwd",
+        "ze": "hadden beschouwd"
+    },
+    "voorbeelden": [
+        "Als je de situatie vanuit zijn positie beschouwt, dan heeft hij gelijk.",
+        "Ik beschouw hem als een goede vriend.",
+        "Zij beschouwen zich als de enige wetgever.",
+        "De maatregel moet daarom als selectief worden beschouwd."
+    ],
+    "vertalingen": [
+        "to view",
+        "to regard",
+        "to look at",
+        "to consider",
+        "to deem"
+    ]
+}

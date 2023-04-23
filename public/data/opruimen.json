@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "ruim op",
+        "je": "ruimt op",
+        "hij": "ruimt op",
+        "het": "ruimt op",
+        "wij": "ruimen op",
+        "jullie": "ruimen op",
+        "ze": "ruimen op"
+    },
+    "imperfectum": {
+        "ik": "ruimde op",
+        "je": "ruimde op",
+        "hij": "ruimde op",
+        "het": "ruimde op",
+        "we": "ruimden op",
+        "jullie": "ruimden op",
+        "ze": "ruimden op"
+    },
+    "perfectum": {
+        "ik": "heb opgeruimd",
+        "je": "hebt opgeruimd",
+        "hij": "heeft opgeruimd",
+        "het": "heeft opgeruimd",
+        "we": "hebben opgeruimd",
+        "jullie": "hebben opgeruimd",
+        "ze": "hebben opgeruimd"
+    },
+    "plusquamperfectum": {
+        "ik": "had opgeruimd",
+        "je": "had opgeruimd",
+        "hij": "had opgeruimd",
+        "het": "had opgeruimd",
+        "we": "hadden opgeruimd",
+        "jullie": "hadden opgeruimd",
+        "ze": "hadden opgeruimd"
+    },
+    "voorbeelden": [
+        "Laten we het opruimen.",
+        "Je hebt mijn kamer opgeruimd.",
+        "We moeten onze eigen rommel opruimen in plaats van die te exporteren naar ontwikkelingslanden.",
+        "Ik heb rotzooi opgeruimd in vier continenten."
+    ],
+    "vertalingen": [
+        "to arrange",
+        "to order",
+        "to tidy up"
+    ]
+}

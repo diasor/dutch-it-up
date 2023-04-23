@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "bid",
+        "je": "bidt",
+        "hij": "bidt",
+        "het": "bidt",
+        "we": "bidden",
+        "jullie": "bidden",
+        "ze": "bidden"
+    },
+    "imperfectum": {
+        "ik": "bad",
+        "je": "bad",
+        "hij": "bad",
+        "het": "bad",
+        "we": "baden",
+        "jullie": "baden",
+        "ze": "baden"
+    },
+    "perfectum": {
+        "ik": "heb gebeden",
+        "je": "hebt gebeden",
+        "hij": "heeft gebeden",
+        "het": "heeft gebeden",
+        "we": "hebben gebeden",
+        "jullie": "hebben gebeden",
+        "ze": "hebben gebeden"
+    },
+    "plusquamperfectum": {
+        "ik": "had gebeden",
+        "je": "had gebeden",
+        "hij": "had gebeden",
+        "het": "had gebeden",
+        "we": "hadden gebeden",
+        "jullie": "hadden gebeden",
+        "ze": "hadden gebeden"
+    },
+    "voorbeelden": [
+        "lk zal bidden voor de ongelukkige slachtoffers.",
+        "Wil je bidden en God danken voor onze familie?",
+        "Hun gebeden werden vaak verhoord.",
+        "Ik ben ongetwijfeld in jouw gebeden."
+    ],
+    "vertalingen": [
+        "to pray",
+        "to beseech"
+    ]
+}

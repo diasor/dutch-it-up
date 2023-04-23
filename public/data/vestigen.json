@@ -1,0 +1,53 @@
+{
+    "presens": {
+        "ik": "vestig",
+        "je": "vestigt",
+        "hij": "vestigt",
+        "het": "vestigt",
+        "we": "vestigen",
+        "jullie": "vestigen",
+        "ze": "vestigen"
+    },
+    "imperfectum": {
+        "ik": "vestigde",
+        "je": "vestigde",
+        "hij": "vestigde",
+        "het": "vestigde",
+        "we": "vestigden",
+        "jullie": "vestigden",
+        "ze": "vestigden"
+    },
+    "perfectum": {
+        "ik": "heb gevestigd",
+        "je": "hebt gevestigd",
+        "hij": "heeft gevestigd",
+        "het": "heeft gevestigd",
+        "we": "hebben gevestigd",
+        "jullie": "hebben gevestigd",
+        "ze": "hebben gevestigd"
+    },
+    "plusquamperfectum": {
+        "ik": "had gevestigd",
+        "je": "had gevestigd",
+        "hij": "had gevestigd",
+        "het": "had gevestigd",
+        "we": "hadden gevestigd",
+        "jullie": "hadden gevestigd",
+        "ze": "hadden gevestigd"
+    },
+    "voorbeelden": [
+        "We willen ons hier vestigen.",
+        "Sommige werknemers willen zich permanent vestigen in het gastland.",
+        "Ik zal hun aandacht zeker op uw opmerkingen vestigen.",
+        "Deze worden gevestigd op het mijnterrein.",
+        "De organisatie is gevestigd in Cambridge.",
+        "Voorheen was hier een tabaksfabriek en een bank gevestigd.",
+        "De prestatiesspecificaties van dit product zijn niet gevestigd."
+    ],
+    "vertalingen": [
+        "to establish",
+        "to settle down",
+        "to take root",
+        "to locate"
+    ]
+}

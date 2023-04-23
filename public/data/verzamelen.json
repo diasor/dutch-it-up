@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "verzamel",
+        "je": "verzamelt",
+        "hij": "verzamelt",
+        "het": "verzamelt",
+        "we": "verzamelen",
+        "jullie": "verzamelen",
+        "ze": "verzamelen"
+    },
+    "imperfectum": {
+        "ik": "verzamelde",
+        "je": "verzamelde",
+        "hij": "verzamelde",
+        "het": "verzamelde",
+        "we": "verzamelden",
+        "jullie": "verzamelden",
+        "ze": "verzamelden"
+    },
+    "perfectum": {
+        "ik": "heb verzameld",
+        "je": "hebt verzameld",
+        "hij": "heeft verzameld",
+        "het": "heeft verzameld",
+        "we": "hebben verzameld",
+        "jullie": "hebben verzameld",
+        "ze": "hebben verzameld"
+    },
+    "plusquamperfectum": {
+        "ik": "had verzameld",
+        "je": "had verzameld",
+        "hij": "had verzameld",
+        "het": "had verzameld",
+        "we": "hadden verzameld",
+        "jullie": "hadden verzameld",
+        "ze": "hadden verzameld"
+    },
+    "voorbeelden": [
+        "Verzamelen van statistische gegevens.",
+        "Ik wil gewoon zoveel mogelijk informatie verzamelen.",
+        "We sorteren en verzamelen ons afval.",
+        "U moet muggen en spinnen verzamelen.",
+        "Waar nodig wordt met dezelfde methodologie aanvullende informatie verzameld.",
+        "Er worden geen bewijzen meer verzameld."
+    ],
+    "vertalingen": [
+        "to collect",
+        "to gather",
+        "to assemble"
+    ]
+}

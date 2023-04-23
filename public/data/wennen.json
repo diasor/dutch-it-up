@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "wen",
+        "je": "went",
+        "hij": "went",
+        "het": "went",
+        "we": "wennen",
+        "jullie": "wennen",
+        "ze": "wennen"
+    },
+    "imperfectum": {
+        "ik": "wende",
+        "je": "wende",
+        "hij": "wende",
+        "het": "wende",
+        "we": "wenden",
+        "jullie": "wenden",
+        "ze": "wenden"
+    },
+    "perfectum": {
+        "ik": "heb gewend",
+        "je": "hebt gewend",
+        "hij": "heeft gewend",
+        "het": "heeft gewend",
+        "we": "hebben gewend",
+        "jullie": "hebben gewend",
+        "ze": "hebben gewend"
+    },
+    "plusquamperfectum": {
+        "ik": "had gewend",
+        "je": "had gewend",
+        "hij": "had gewend",
+        "het": "had gewend",
+        "we": "hadden gewend",
+        "jullie": "hadden gewend",
+        "ze": "hadden gewend"
+    },
+    "voorbeelden": [
+        "Je zal je aanpassen en je zal eraan wennen.",
+        "Nogmaals, dit is een kwestie van wennen.",
+        "Dat is nieuw, we moeten er nog aan wennen en dat is waarschijnlijk niet eenvoudig.",
+        "Jullie wennen wel aan mijn humor.",
+        "Opgroeien is wennen aan deze wereld.",
+        "We zijn gewend aan meer scepticisme.",
+        "Ik ben zulke risico's niet gewend."
+    ],
+    "vertalingen": [
+        "to get used to",
+        "to accustom oneself"
+    ]
+}

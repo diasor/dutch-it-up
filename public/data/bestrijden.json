@@ -1,0 +1,54 @@
+{
+    "presens": {
+        "ik": "bestrijd",
+        "je": "bestrijdt",
+        "hij": "bestrijdt",
+        "het": "bestrijdt",
+        "we": "bestrijden",
+        "jullie": "bestrijden",
+        "ze": "bestrijden"
+    },
+    "imperfectum": {
+        "ik": "bestreed",
+        "je": "bestreed",
+        "hij": "bestreed",
+        "het": "bestreed",
+        "we": "bestreden",
+        "jullie": "bestreden",
+        "ze": "bestreden"
+    },
+    "perfectum": {
+        "ik": "heb bestreden",
+        "je": "hebt bestreden",
+        "hij": "heeft bestreden",
+        "het": "heeft bestreden",
+        "we": "hebben bestreden",
+        "jullie": "hebben bestreden",
+        "ze": "hebben bestreden"
+    },
+    "plusquamperfectum": {
+        "ik": "had bestreden",
+        "je": "had bestreden",
+        "hij": "had bestreden",
+        "het": "had bestreden",
+        "we": "hadden bestreden",
+        "jullie": "hadden bestreden",
+        "ze": "hadden bestreden"
+    },
+    "voorbeelden": [
+        "Veel mensen hebben het idee dat mijn buurman goed andere talen spreken maar ik vind dat helemaal niet. Dat idee bestrijd ik.",
+        "Terrorisme moeten we krachtig bestrijden.",
+        "We moeten discriminatie en armoede bestrijden.",
+        "Zij moeten de criminaliteit, de wapenhandel en de corruptie bestrijden.",
+        "Duitsland heeft deze conclusie niet bestreden.",
+        "Activisten hebben flagrante kindermishandeling bestreden, en terecht.",
+        "Het moet ook voorkomen en bestreden worden bij de daders."
+    ],
+    "vertalingen": [
+        "to combat",
+        "to fight",
+        "to fight against",
+        "to challenge",
+        "to contest"
+    ]
+}

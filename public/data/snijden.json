@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "snijd",
+        "je": "snijdt",
+        "hij": "snijdt",
+        "het": "snijdt",
+        "we": "snijden",
+        "jullie": "snijden",
+        "ze": "snijden"
+    },
+    "imperfectum": {
+        "ik": "sneed",
+        "je": "sneed",
+        "hij": "sneed",
+        "het": "sneed",
+        "we": "sneden",
+        "jullie": "sneden",
+        "ze": "sneden"
+    },
+    "perfectum": {
+        "ik": "heb gesneden",
+        "je": "hebt gesneden",
+        "hij": "heeft gesneden",
+        "het": "heeft gesneden",
+        "we": "hebben gesneden",
+        "jullie": "hebben gesneden",
+        "ze": "hebben gesneden"
+    },
+    "plusquamperfectum": {
+        "ik": "had gesneden",
+        "je": "had gesneden",
+        "hij": "had gesneden",
+        "het": "had gesneden",
+        "we": "hadden gesneden",
+        "jullie": "hadden gesneden",
+        "ze": "hadden gesneden"
+    },
+    "voorbeelden": [
+        "Deze man probeert Wit-Rusland af te snijden van Europa.",
+        "Mensen willen hun leven op maat snijden."
+    ],
+    "vertalingen": [
+        "to cut",
+        "to slice",
+        "to castrate"
+    ]
+}

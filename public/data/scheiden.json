@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "scheid",
+        "je": "scheidt",
+        "hij": "scheidt",
+        "het": "scheidt",
+        "we": "scheiden",
+        "jullie": "scheiden",
+        "ze": "scheiden"
+    },
+    "imperfectum": {
+        "ik": "scheidde",
+        "je": "scheidde",
+        "hij": "scheidde",
+        "het": "scheidde",
+        "we": "scheidden",
+        "jullie": "scheidden",
+        "ze": "scheidden"
+    },
+    "perfectum": {
+        "ik": "heb gescheiden",
+        "je": "hebt gescheiden",
+        "hij": "heeft gescheiden",
+        "het": "heeft gescheiden",
+        "we": "hebben gescheiden",
+        "jullie": "hebben gescheiden",
+        "ze": "hebben gescheiden"
+    },
+    "plusquamperfectum": {
+        "ik": "had gescheiden",
+        "je": "had gescheiden",
+        "hij": "had gescheiden",
+        "het": "had gescheiden",
+        "we": "hadden gescheiden",
+        "jullie": "hadden gescheiden",
+        "ze": "hadden gescheiden"
+    },
+    "voorbeelden": [
+        "Hij is bang dat we gaan scheiden. ",
+        "Je moet de feiten van vooroordelen scheiden.",
+        "Ze zijn makkelijker te scheiden van andere materialen en van elkaar.",
+        "Hij weet dat we gescheiden leven."
+    ],
+    "vertalingen": [
+        "to divide",
+        "to separate",
+        "to break up",
+        "to divorce"
+    ]
+}

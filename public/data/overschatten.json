@@ -1,0 +1,51 @@
+{
+    "presens": {
+        "ik": "overschat",
+        "je": "overschat",
+        "hij": "overschat",
+        "het": "overschat",
+        "wij": "overschatten",
+        "jullie": "overschatten",
+        "ze": "overschatten"
+    },
+    "imperfectum": {
+        "ik": "overschatte",
+        "je": "overschatte",
+        "hij": "overschatte",
+        "het": "overschatte",
+        "we": "overschatten",
+        "jullie": "overschatten",
+        "ze": "overschatten"
+    },
+    "perfectum": {
+        "ik": "heb overschat",
+        "je": "hebt overschat",
+        "hij": "heeft overschat",
+        "het": "heeft overschat",
+        "we": "hebben overschat",
+        "jullie": "hebben overschat",
+        "ze": "hebben overschat"
+    },
+    "plusquamperfectum": {
+        "ik": "had overschat",
+        "je": "had overschat",
+        "hij": "had overschat",
+        "het": "had overschat",
+        "we": "hadden overschat",
+        "jullie": "hadden overschat",
+        "ze": "hadden overschat"
+    },
+    "voorbeelden": [
+        "Ik dacht dat ik dat examen gemakkelijk kon doen. Maar ik heb mezelf overschat; ik heb het examen niet gehaald",
+        "Wij moeten de biotechnologie overschatten noch onderschatten.",
+        "Laten we echter de rol van de publieke sector ook weer niet overschatten.",
+        "De schade die hierdoor is veroorzaakt valt niet licht te overschatten.",
+        "De conferentie in Oslo is een eerste stap, een eerste overwinning, maar wij mogen de daar bereikte resultaten niet overschatten.",
+        "We mogen de negatieve gevolgen voor het toerisme in het algemeen echter niet overschatten."
+    ],
+    "vertalingen": [
+        "to overestimate",
+        "to overrate",
+        "to overvalue"
+    ]
+}

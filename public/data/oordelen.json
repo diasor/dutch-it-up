@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "oordeel",
+        "je": "oordeelt",
+        "hij": "oordeelt",
+        "het": "oordeelt",
+        "wij": "oordelen",
+        "jullie": "oordelen",
+        "ze": "oordelen"
+    },
+    "imperfectum": {
+        "ik": "oordeelde",
+        "je": "oordeelde",
+        "hij": "oordeelde",
+        "het": "oordeelde",
+        "we": "oordeelden",
+        "jullie": "oordeelden",
+        "ze": "oordeelden"
+    },
+    "perfectum": {
+        "ik": "heb geoordeeld",
+        "je": "hebt geoordeeld",
+        "hij": "heeft geoordeeld",
+        "het": "heeft geoordeeld",
+        "we": "hebben geoordeeld",
+        "jullie": "hebben geoordeeld",
+        "ze": "hebben geoordeeld"
+    },
+    "plusquamperfectum": {
+        "ik": "had geoordeeld",
+        "je": "had geoordeeld",
+        "hij": "had geoordeeld",
+        "het": "had geoordeeld",
+        "we": "hadden geoordeeld",
+        "jullie": "hadden geoordeeld",
+        "ze": "hadden geoordeeld"
+    },
+    "voorbeelden": [
+        "Ik dacht dat ik dat examen gemakkelijk kon doen. Maar ik heb mezelf geoordeeld; ik heb het examen niet gehaald",
+        "Wij moeten de biotechnologie geoordeeldten noch onderschatten.",
+        "Laten we echter de rol van de publieke sector ook weer niet geoordeeldten.",
+        "De schade die hierdoor is veroorzaakt valt niet licht te geoordeeldten.",
+        "De conferentie in Oslo is een eerste stap, een eerste overwinning, maar wij mogen de daar bereikte resultaten niet geoordeeldten.",
+        "We mogen de negatieve gevolgen voor het toerisme in het algemeen echter niet geoordeeldten."
+    ],
+    "vertalingen": [
+        "to judge",
+        "to adjudicate"
+    ]
+}

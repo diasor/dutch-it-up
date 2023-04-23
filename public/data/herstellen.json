@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "herstel",
+        "je": "herstelt",
+        "hij": "herstelt",
+        "het": "herstelt",
+        "we": "herstellen",
+        "jullie": "herstellen",
+        "ze": "herstellen"
+    },
+    "imperfectum": {
+        "ik": "konherstelde",
+        "je": "herstelde",
+        "hij": "herstelde",
+        "het": "herstelden",
+        "we": "herstelden",
+        "jullie": "herstelden",
+        "ze": "herstelden"
+    },
+    "perfectum": {
+        "ik": "heb hersteld",
+        "je": "hebt hersteld",
+        "hij": "heeft hersteld",
+        "het": "heeft hersteld",
+        "we": "hebben hersteld",
+        "jullie": "hebben hersteld",
+        "ze": "hebben hersteld"
+    },
+    "plusquamperfectum": {
+        "ik": "had hersteld",
+        "je": "had hersteld",
+        "hij": "had hersteld",
+        "het": "had hersteld",
+        "we": "hadden hersteld",
+        "jullie": "hadden hersteld",
+        "ze": "hadden hersteld"
+    },
+    "voorbeelden": [
+        "De membranen herstellen zich.",
+        "Wij moeten dat evenwicht herstellen.",
+        "We moeten deze fout nu herstellen.",
+        "Vandaag moeten wij onze fout erkennen en herstellen."
+    ],
+    "vertalingen": [
+        "to be able to",
+        "to can"
+    ]
+}

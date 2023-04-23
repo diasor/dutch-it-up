@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "ondervraag",
+        "je": "ondervraagt",
+        "hij": "ondervraagt",
+        "het": "ondervraagt",
+        "wij": "ondervragen",
+        "jullie": "ondervragen",
+        "ze": "ondervragen"
+    },
+    "imperfectum": {
+        "ik": "ondervroeg",
+        "je": "ondervroeg",
+        "hij": "ondervroeg",
+        "het": "ondervroeg",
+        "we": "ondervroegen",
+        "jullie": "ondervroegen",
+        "ze": "ondervroegen"
+    },
+    "perfectum": {
+        "ik": "heb ondervraagd",
+        "je": "hebt ondervraagd",
+        "hij": "heeft ondervraagd",
+        "het": "heeft ondervraagd",
+        "we": "hebben ondervraagd",
+        "jullie": "hebben ondervraagd",
+        "ze": "hebben ondervraagd"
+    },
+    "plusquamperfectum": {
+        "ik": "had ondervraagd",
+        "je": "had ondervraagd",
+        "hij": "had ondervraagd",
+        "het": "had ondervraagd",
+        "we": "hadden ondervraagd",
+        "jullie": "hadden ondervraagd",
+        "ze": "hadden ondervraagd"
+    },
+    "voorbeelden": [
+        "Hij had het ongeluk gezien en daarom ondervroeg de politie hem.",
+        "De VS moet deze personen ondervragen, aangezien dat een essentieel onderdeel is van de wereldwijde strijd tegen het terrorisme.",
+        "Momenteel wordt ondervraagd maar nog niet beschuldigd.",
+        "Ik werd ondervraagd door een marinier.",
+        "Ze werd ondervraagd als verdachte en vervolgens vrijgelaten."
+    ],
+    "vertalingen": [
+        "to interrogate",
+        "to question",
+        "to cross examine"
+    ]
+}

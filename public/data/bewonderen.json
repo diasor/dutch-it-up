@@ -1,0 +1,46 @@
+{
+    "presens": {
+        "ik": "bewonder",
+        "je": "bewondert",
+        "hij": "bewondert",
+        "het": "bewondert",
+        "we": "bewonderen",
+        "jullie": "bewonderen",
+        "ze": "bewonderen"
+    },
+    "imperfectum": {
+        "ik": "bewonderde",
+        "je": "bewonderde",
+        "hij": "bewonderde",
+        "het": "bewonderde",
+        "we": "bewonderden",
+        "jullie": "bewonderden",
+        "ze": "bewonderden"
+    },
+    "perfectum": {
+        "ik": "heb bewonderd",
+        "je": "hebt bewonderd",
+        "hij": "heeft bewonderd",
+        "het": "heeft bewonderd",
+        "we": "hebben bewonderd",
+        "jullie": "hebben bewonderd",
+        "ze": "hebben bewonderd"
+    },
+    "plusquamperfectum": {
+        "ik": "had bewonderd",
+        "je": "had bewonderd",
+        "hij": "had bewonderd",
+        "het": "had bewonderd",
+        "we": "hadden bewonderd",
+        "jullie": "hadden bewonderd",
+        "ze": "hadden bewonderd"
+    },
+    "voorbeelden": [
+        "Veel mensen bewonderen een bekende acteur of actrice, maar ik bewonder mijn buurvrouw. Ze is erg ziek maar ze is altijd optimistisch en vrolijk.",
+        "Wij bewonderen uw doorzettingsvermogen.",
+        "Wij kunnen Amerika wel bewonderen, maar toch is het uiterst belangrijk dat wij hier in Europa onze eigen culturen beschermen en bevorderen."
+    ],
+    "vertalingen": [
+        "to admire"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "betref",
+        "je": "betreft",
+        "hij": "betreft",
+        "het": "betreft",
+        "we": "betreffen",
+        "jullie": "betreffen",
+        "ze": "betreffen"
+    },
+    "imperfectum": {
+        "ik": "betrof",
+        "je": "betrof",
+        "hij": "betrof",
+        "het": "betrof",
+        "we": "betroffen",
+        "jullie": "betroffen",
+        "ze": "betroffen"
+    },
+    "perfectum": {
+        "ik": "heb betroffen",
+        "je": "hebt betroffen",
+        "hij": "heeft betroffen",
+        "het": "heeft betroffen",
+        "we": "hebben betroffen",
+        "jullie": "hebben betroffen",
+        "ze": "hebben betroffen"
+    },
+    "plusquamperfectum": {
+        "ik": "had betroffen",
+        "je": "had betroffen",
+        "hij": "had betroffen",
+        "het": "had betroffen",
+        "we": "hadden betroffen",
+        "jullie": "hadden betroffen",
+        "ze": "hadden betroffen"
+    },
+    "voorbeelden": [
+        "De problemen van alcoholgebruik betreffen echter niet alleen jongeren.",
+        "Mijn vragen betreffen de positieve lijst van voedermiddelen.",
+        "Degenen die in de chemische productie werken zullen vooral sterk betroffen zijn."
+    ],
+    "vertalingen": [
+        "to concern",
+        "to affect"
+    ]
+}

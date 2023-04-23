@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "teken",
+        "je": "tekent",
+        "hij": "tekent",
+        "het": "tekent",
+        "we": "tekenen",
+        "jullie": "tekenen",
+        "ze": "tekenen"
+    },
+    "imperfectum": {
+        "ik": "tekende",
+        "je": "tekende",
+        "hij": "tekende",
+        "het": "tekende",
+        "we": "tekenden",
+        "jullie": "tekenden",
+        "ze": "tekenden"
+    },
+    "perfectum": {
+        "ik": "heb getekend",
+        "je": "hebt getekend",
+        "hij": "heeft getekend",
+        "het": "heeft getekend",
+        "we": "hebben getekend",
+        "jullie": "hebben getekend",
+        "ze": "hebben getekend"
+    },
+    "plusquamperfectum": {
+        "ik": "had getekend",
+        "je": "had getekend",
+        "hij": "had getekend",
+        "het": "had getekend",
+        "we": "hadden getekend",
+        "jullie": "hadden getekend",
+        "ze": "hadden getekend"
+    },
+    "voorbeelden": [
+        "We leren een perfecte cirkel tekenen.",
+        "We gaan nu het wetgevingspakket tekenen.",
+        "Ik zou een winterlandschap willen tekenen.",
+        "Het hele team heeft deze bal getekend.",
+        "De rechter heeft voor jouw bescherming getekend."
+    ],
+    "vertalingen": [
+        "to draw",
+        "to sign"
+    ]
+}

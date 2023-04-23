@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "constateer",
+        "je": "constateert",
+        "hij": "constateert",
+        "het": "constateert",
+        "we": "constateren",
+        "jullie": "constateren",
+        "ze": "constateren"
+    },
+    "imperfectum": {
+        "ik": "constateerde",
+        "je": "constateerde",
+        "hij": "constateerde",
+        "het": "constateerde",
+        "we": "constateerden",
+        "jullie": "constateerden",
+        "ze": "constateerden"
+    },
+    "perfectum": {
+        "ik": "heb geconstateerd",
+        "je": "hebt geconstateerd",
+        "hij": "heeft geconstateerd",
+        "het": "heeft geconstateerd",
+        "we": "hebben geconstateerd",
+        "jullie": "hebben geconstateerd",
+        "ze": "hebben geconstateerd"
+    },
+    "plusquamperfectum": {
+        "ik": "had geconstateerd",
+        "je": "had geconstateerd",
+        "hij": "had geconstateerd",
+        "het": "had geconstateerd",
+        "we": "hadden geconstateerd",
+        "jullie": "hadden geconstateerd",
+        "ze": "hadden geconstateerd"
+    },
+    "voorbeelden": [
+        "Wat doen wij wanneer wij fraude constateren? ",
+        "Hoe ga je nu je kip bakken?",
+        "Ik denk dat we dat met dankbaarheid moeten constateren.",
+        "Ik heb geconstateerd dat ik veel fouten met de woordvolgorde maak als ik spreek",
+        "Tussen de acht landen zijn diverse verschillen in methodiek geconstateerd."
+    ],
+    "vertalingen": [
+        "to ascertain",
+        "to take note",
+        "to observb"
+    ]
+}

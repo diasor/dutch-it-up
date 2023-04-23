@@ -1,0 +1,50 @@
+{
+    "presens": {
+        "ik": "wissel uit",
+        "je": "wisselt uit",
+        "hij": "wisselt uit",
+        "het": "wisselt uit",
+        "we": "wisselen uit",
+        "jullie": "wisselen uit",
+        "ze": "wisselen uit"
+    },
+    "imperfectum": {
+        "ik": "wisselde uit",
+        "je": "wisselde uit",
+        "hij": "wisselde uit",
+        "het": "wisselde uit",
+        "we": "wisselden uit",
+        "jullie": "wisselden uit",
+        "ze": "wisselden uit"
+    },
+    "perfectum": {
+        "ik": "heb uitgewisseld",
+        "je": "hebt uitgewisseld",
+        "hij": "heeft uitgewisseld",
+        "het": "heeft uitgewisseld",
+        "we": "hebben uitgewisseld",
+        "jullie": "hebben uitgewisseld",
+        "ze": "hebben uitgewisseld"
+    },
+    "plusquamperfectum": {
+        "ik": "had uitgewisseld",
+        "je": "had uitgewisseld",
+        "hij": "had uitgewisseld",
+        "het": "had uitgewisseld",
+        "we": "hadden uitgewisseld",
+        "jullie": "hadden uitgewisseld",
+        "ze": "hadden uitgewisseld"
+    },
+    "voorbeelden": [
+        "Ik heb in de trein met een heel leuke jongen gepraat. We hebben telefoonnummers en e-mailadressen uitgewisseld.",
+        "Die berichten worden via het geautomatiseerde systeem uitgewisseld.",
+        "Wij hebben natuurlijk meer manieren om samen te werken en van gedachten te wisselen.",
+        "Goede praktijken moeten worden gepubliceerd en uitgewisseld."
+    ],
+    "vertalingen": [
+        "to change",
+        "to swap",
+        "to exchange",
+        "to interchange"
+    ]
+}

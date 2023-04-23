@@ -1,0 +1,52 @@
+{
+    "presens": {
+        "ik": "pas aan",
+        "je": "past aan",
+        "hij": "past aan",
+        "het": "past aan",
+        "we": "passen aan",
+        "jullie": "passen aan",
+        "ze": "passen aan"
+    },
+    "imperfectum": {
+        "ik": "paste aan",
+        "je": "paste aan",
+        "hij": "paste aan",
+        "het": "paste aan",
+        "we": "pasten aan",
+        "jullie": "pasten aan",
+        "ze": "pasten aan"
+    },
+    "perfectum": {
+        "ik": "heb aangepast",
+        "je": "hebt aangepast",
+        "hij": "heeft aangepast",
+        "het": "heeft aangepast",
+        "we": "hebben aangepast",
+        "jullie": "hebben aangepast",
+        "ze": "hebben aangepast"
+    },
+    "plusquamperfectum": {
+        "ik": "had aangepast",
+        "je": "had aangepast",
+        "hij": "had aangepast",
+        "het": "had aangepast",
+        "we": "hadden aangepast",
+        "jullie": "hadden aangepast",
+        "ze": "hadden aangepast"
+    },
+    "voorbeelden": [
+        "Het koste me moeite om me aan te passen aan de Nederlandse eetgewoontes. Nu ben ik eraan gewend dat de lunch uit brood bestaat.",
+        "Dit zal zich aanpassen aan de omgeving.",
+        "Ze moeten hun gedrag aanpassen.",
+        "Ze zullen zeker je alimentatie aanpassen.",
+        "Onze wedstrijden zijn aangepast op de omgeving."
+    ],
+    "vertalingen": [
+        "to get used to",
+        "to adjust",
+        "to adapt",
+        "to readjust",
+        "to try on"
+    ]
+}

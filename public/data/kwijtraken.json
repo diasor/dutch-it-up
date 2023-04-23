@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "raakt kwij",
+        "je": "raakt kwijt",
+        "hij": "raakt kwijt",
+        "het": "raakt kwijt",
+        "we": "raken kwijt",
+        "jullie": "raken kwijt",
+        "ze": "raken kwijt"
+    },
+    "imperfectum": {
+        "ik": "raakte kwijt",
+        "je": "raakte kwijt",
+        "hij": "raakte kwijt",
+        "het": "raakte kwijt",
+        "we": "raakten kwijt",
+        "jullie": "raakten kwijt",
+        "ze": "raakten kwijt"
+    },
+    "perfectum": {
+        "ik": "ben kwijtgeraakt",
+        "je": "bent kwijtgeraakt",
+        "hij": "bent kwijtgeraakt",
+        "het": "is kwijtgeraakt",
+        "we": "zijn kwijtgeraakt",
+        "jullie": "zijn kwijtgeraakt",
+        "ze": "zijn kwijtgeraakt"
+    },
+    "plusquamperfectum": {
+        "ik": "was kwijtgeraakt",
+        "je": "was kwijtgeraakt",
+        "hij": "was kwijtgeraakt",
+        "het": "was kwijtgeraakt",
+        "we": "waren kwijtgeraakt",
+        "jullie": "waren kwijtgeraakt",
+        "ze": "waren kwijtgeraakt"
+    },
+    "voorbeelden": [
+        "Ik wil je niet kwijtraken.",
+        "We weten dat velen hun baan kwijtraken zodra ze zwanger worden.",
+        "Californië zal naar verwachting 25 procent van zijn soorten kwijtraken in de komende 40 jaar.",
+        "In plaats daarvan moeten we geld vrijmaken om te zorgen dat mensen die hun baan kwijtraken door globalisering, de mogelijkheid hebben om in een andere sector werk te vinden."
+    ],
+    "vertalingen": [
+        "to lose"
+    ]
+}

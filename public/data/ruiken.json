@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "ruik",
+        "je": "ruikt",
+        "hij": "ruikt",
+        "het": "ruikt",
+        "we": "ruiken",
+        "jullie": "ruiken",
+        "ze": "ruiken"
+    },
+    "imperfectum": {
+        "ik": "rook",
+        "je": "rook",
+        "hij": "rook",
+        "het": "rook",
+        "we": "roken",
+        "jullie": "roken",
+        "ze": "roken"
+    },
+    "perfectum": {
+        "ik": "heb geroken",
+        "je": "hebt geroken",
+        "hij": "heeft geroken",
+        "het": "heeft geroken",
+        "we": "hebben geroken",
+        "jullie": "hebben geroken",
+        "ze": "hebben geroken"
+    },
+    "plusquamperfectum": {
+        "ik": "had geroken",
+        "je": "had geroken",
+        "hij": "had geroken",
+        "het": "had geroken",
+        "we": "hadden geroken",
+        "jullie": "hadden geroken",
+        "ze": "hadden geroken"
+    },
+    "voorbeelden": [
+        "Ik kan niks zien, maar ik kan ze ruiken.",
+        "Zo heeft de keuken lang niet geroken.",
+        "En ik heb die aftershave eerder geroken."
+    ],
+    "vertalingen": [
+        "to smell",
+        "to reek"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "presens": {
+        "ik": "lieg",
+        "je": "liegt",
+        "hij": "liegt",
+        "het": "liegt",
+        "we": "liegen",
+        "jullie": "liegen",
+        "ze": "liegen"
+    },
+    "imperfectum": {
+        "ik": "loog",
+        "je": "loog",
+        "hij": "loog",
+        "het": "loog",
+        "we": "loog",
+        "jullie": "loog",
+        "ze": "loog"
+    },
+    "perfectum": {
+        "ik": "heb gelogen",
+        "je": "hebt gelogen",
+        "hij": "heeft gelogen",
+        "het": "heeft gelogen",
+        "we": "hebben gelogen",
+        "jullie": "hebben gelogen",
+        "ze": "hebben gelogen"
+    },
+    "plusquamperfectum": {
+        "ik": "had gelogen",
+        "je": "had gelogen",
+        "hij": "had gelogen",
+        "het": "had gelogen",
+        "we": "hadden gelogen",
+        "jullie": "hadden gelogen",
+        "ze": "hadden gelogen"
+    },
+    "voorbeelden": [
+        "Ze liegen niet.",
+        "Liegen is ingewikkeld.",
+        "Ze liegen over de publieke gezondheid.",
+        "Omdat je tegen mij gelogen hebt.",
+        "Ik heb gelogen om mee te kunnen gaan."
+    ],
+    "vertalingen": [
+        "to lie"
+    ]
+}

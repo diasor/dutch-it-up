@@ -1,0 +1,49 @@
+{
+    "presens": {
+        "ik": "zoek",
+        "je": "zoekt",
+        "hij": "zoekt",
+        "het": "zoekt",
+        "we": "zoeken",
+        "jullie": "zoeken",
+        "ze": "zoeken"
+    },
+    "imperfectum": {
+        "ik": "zocht",
+        "je": "zocht",
+        "hij": "zocht",
+        "het": "zocht",
+        "we": "zochten",
+        "jullie": "zochten",
+        "ze": "zochten"
+    },
+    "perfectum": {
+        "ik": "heb gezocht",
+        "je": "hebt gezocht",
+        "hij": "heeft gezocht",
+        "het": "heeft gezocht",
+        "we": "hebben gezocht",
+        "jullie": "hebben gezocht",
+        "ze": "hebben gezocht"
+    },
+    "plusquamperfectum": {
+        "ik": "had gezocht",
+        "je": "had gezocht",
+        "hij": "had gezocht",
+        "het": "had gezocht",
+        "we": "hadden gezocht",
+        "jullie": "hadden gezocht",
+        "ze": "hadden gezocht"
+    },
+    "voorbeelden": [
+        "Ik ga munitie zoeken.",
+        "We zoeken naar onze identiteit.",
+        "Ik moet hem gaan zoeken.",
+        "Wanneer wordt differentiatie zoeken naar de waarheid?",
+        "Ik bedoel, je gaat iemand zoeken."
+    ],
+    "vertalingen": [
+        "to search",
+        "to look for"
+    ]
+}

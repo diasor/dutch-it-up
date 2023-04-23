@@ -1,0 +1,47 @@
+{
+    "presens": {
+        "ik": "bewijs",
+        "je": "bewijst",
+        "hij": "bewijst",
+        "het": "bewijst",
+        "we": "bewijzen",
+        "jullie": "bewijzen",
+        "ze": "bewijzen"
+    },
+    "imperfectum": {
+        "ik": "bewees",
+        "je": "bewees",
+        "hij": "bewees",
+        "het": "bewees",
+        "we": "bewezen",
+        "jullie": "bewezen",
+        "ze": "bewezen"
+    },
+    "perfectum": {
+        "ik": "heb bewezen",
+        "je": "hebt bewezen",
+        "hij": "heeft bewezen",
+        "het": "heeft bewezen",
+        "we": "hebben bewezen",
+        "jullie": "hebben bewezen",
+        "ze": "hebben bewezen"
+    },
+    "plusquamperfectum": {
+        "ik": "had bewezen",
+        "je": "had bewezen",
+        "hij": "had bewezen",
+        "het": "had bewezen",
+        "we": "hadden bewezen",
+        "jullie": "hadden bewezen",
+        "ze": "hadden bewezen"
+    },
+    "voorbeelden": [
+        "De feiten bewijzen dat.",
+        "Er zijn altijd conflicterende bewijzen.",
+        "Ik heb zes maanden in de bak gezeten door jou! "
+    ],
+    "vertalingen": [
+        "to prove",
+        "to demonstrate"
+    ]
+}
