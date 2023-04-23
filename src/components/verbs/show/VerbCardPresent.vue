@@ -20,7 +20,7 @@
 
 <script setup>
 import { computed, defineProps } from "vue";
-import VerbItem from "@/components/base/VerbItem.vue";
+import VerbItem from "@/components/verbs/base/VerbItem.vue";
 import { IK_LABEL, JE_LABEL, HET_LABEL, WE_LABEL, JULLIE_LABEL, ZIJ_LABEL } from "@/constants/index";
 
 const props = defineProps({

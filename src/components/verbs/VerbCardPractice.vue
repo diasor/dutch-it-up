@@ -23,7 +23,6 @@
                         <v-card-title class="form-title">Werkwoorden leren</v-card-title>
                         <v-divider />
                         <verb-card-learn id="learn-verb" />
-
                     </v-window-item>
                 </v-window>
             </v-card-text>
@@ -35,7 +34,7 @@
 import { ref } from "vue";
 import VerbForm from "./VerbForm.vue";
 import VerbAnswers from "./VerbAnswer.vue";
-import VerbCardLearn from "./VerbCard.vue";
+import VerbCardLearn from "./show/VerbCard.vue";
 
 const answerComponentKey = ref(0);
 const reRenderAnswers = () => {

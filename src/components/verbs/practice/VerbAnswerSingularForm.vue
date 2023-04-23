@@ -33,7 +33,7 @@
 
 <script setup>
 import { defineProps } from "vue";
-import RowAnswerFull from "../base/RowAnswerFull.vue";
+import RowAnswerFull from "./../base/RowAnswerFull.vue";
 import { IK_LABEL, JE_LABEL_FULL, HET_LABEL } from "@/constants/index";
 
 const props = defineProps({

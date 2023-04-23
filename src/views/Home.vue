@@ -15,13 +15,17 @@
 
             <v-card-text class="px-0">
                 <v-window v-model="tab">
+                    <!-- Practice form -->
                     <v-window-item value="practice">
                         <verb-answers :key="answerComponentKey" />
                     </v-window-item>
 
+                    <!-- Learning tiles (with the answers) -->
                     <v-window-item value="learn">
                         <verb-card id="learn-verb" />
                     </v-window-item>
+
+                    <!-- Verb examples (full sentences) -->
                     <v-window-item value="examples">
                         <verb-card-examples id="examples-verb" />
                     </v-window-item>
@@ -35,8 +39,8 @@
 import { ref, onMounted } from "vue";
 import { useStore } from "vuex";
 import VerbForm from "@/components/verbs/VerbForm.vue";
-import VerbAnswers from "@/components/verbs/VerbAnswer.vue";
-import VerbCard from "@/components/verbs/VerbCard.vue";
+import VerbAnswers from "@/components/verbs/practice/VerbAnswer.vue";
+import VerbCard from "@/components/verbs/show/VerbCard.vue";
 import VerbCardExamples from "@/components/verbs/VerbCardExamples.vue";
 
 const store = useStore();

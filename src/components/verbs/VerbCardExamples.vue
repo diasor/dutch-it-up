@@ -26,7 +26,7 @@
 
 <script setup>
 import { ref, computed, watch, onMounted } from "vue";
-import VerbChip from "../base/VerbChip.vue";
+import VerbChip from "@/components/verbs/base/VerbChip.vue";
 import { useStore } from "vuex";
 
 const store = useStore();

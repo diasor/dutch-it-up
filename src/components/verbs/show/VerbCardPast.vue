@@ -23,7 +23,7 @@
 
 <script setup>
 import { computed, defineProps } from "vue";
-import VerbItem from "@/components/base/VerbItem.vue";
+import VerbItem from "@/components/verbs/base/VerbItem.vue";
 
 const SINGULAR_PERSON = "Singular";
 const PLURAL_PERSON = "Plural";
