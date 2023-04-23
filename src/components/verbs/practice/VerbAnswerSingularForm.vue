@@ -16,14 +16,14 @@
             <!-- Je / Jij / U information -->
             <row-answer-full
                 :enablePractice="props.enablePractice"
-                :personText="JE_LABEL_FULL"
+                :personText="secondPersonLabel"
                 person="je"
             />
 
             <!-- Zij / Hij / Het information -->
             <row-answer-full
                 :enablePractice="props.enablePractice"
-                :personText="HET_LABEL"
+                :personText="thirdPersonLabel"
                 person="het"
             />
     </v-form>
@@ -32,13 +32,17 @@
 </template>
 
 <script setup>
-import { defineProps } from "vue";
+import { defineProps, computed } from "vue";
+import { useDisplay } from "vuetify";
 import RowAnswerFull from "./../base/RowAnswerFull.vue";
-import { IK_LABEL, JE_LABEL_FULL, HET_LABEL } from "@/constants/index";
+import { IK_LABEL, JE_LABEL, JE_LABEL_FULL, HET_LABEL, HET_LABEL_FULL } from "@/constants/index";
 
 const props = defineProps({
     enablePractice: Boolean
 });
+const { mobile } = useDisplay();
+const secondPersonLabel = computed(() => mobile.value ? JE_LABEL : JE_LABEL_FULL);
+const thirdPersonLabel = computed(() => mobile.value ? HET_LABEL : HET_LABEL_FULL);
 </script>
 
 <style scoped lang="scss">

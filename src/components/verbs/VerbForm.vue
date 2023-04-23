@@ -26,7 +26,7 @@
           <v-select
             v-model="tense"
             :items="tenseList"
-            label="Selecteer een tijden"
+            label="Selecteer een werkwoord vorm"
             clearable
           />
         </v-col>

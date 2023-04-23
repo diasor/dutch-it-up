@@ -37,7 +37,7 @@
 </template>
 
 <script setup>
-import { ref, onMounted, computed } from "vue";
+import { ref, onMounted, computed, watch } from "vue";
 import { useStore } from "vuex";
 import { useDisplay } from "vuetify";
 import VerbForm from "@/components/verbs/VerbForm.vue";
@@ -46,21 +46,39 @@ import VerbCard from "@/components/verbs/show/VerbCard.vue";
 import VerbCardExamples from "@/components/verbs/VerbCardExamples.vue";
 
 const store = useStore();
-const { mobile } = useDisplay();
+const { name } = useDisplay();
 
-const tabsDirection = computed(() => mobile.value ? "vertical" : "horizontal");
-
-onMounted(() => {
-    store.dispatch("setVerbList");
-    console.log(mobile.value);
-});
-
+// answers
 const answerComponentKey = ref(0);
 const reRenderAnswers = () => {
     answerComponentKey.value += 1;
 };
 
+// tabs
 const tab = ref("");
+const tabsDirection = ref("vertical");
+const isMobile = computed(() => {
+    switch (name.value) {
+    case "xs": return true;
+    case "sm": return true;
+    case "md": return false;
+    case "lg": return false;
+    case "xl": return false;
+    case "xxl": return false;
+    default: return false;
+    };
+});
+const getTabsDirection = () => {
+    return isMobile.value === true ? "vertical" : "horizontal";
+};
+onMounted(() => {
+    store.dispatch("setVerbList");
+    tabsDirection.value = getTabsDirection();
+});
+
+watch(isMobile, () => {
+    tabsDirection.value = getTabsDirection();
+});
 </script>
 
 <style scoped lang="scss">

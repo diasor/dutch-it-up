@@ -1,14 +1,13 @@
 <template>
     <v-row style="height: 4rem">
-        <v-col cols="12" md="3">
+        <v-col cols="3">
             <v-label class="pl-1">{{ props.personText }}</v-label>
         </v-col>
-        <v-col cols="12" md="6">
+        <v-col cols="6">
             <v-label class="pl-1">{{ props.verbText }}</v-label>
         </v-col>
-        <v-col cols="12" md="3">
-            <!-- <v-icon size="large" class="pr-2" @click.prevent="showQuestion">mdi-eye-off-outline</v-icon> -->
-            <v-tooltip text="Got it! Now send me back to the question">
+        <v-col cols="3">
+            <v-tooltip text="Got it! Now send me back to the question.">
                 <template v-slot:activator="{ props }">
                     <v-icon
                         size="large"
