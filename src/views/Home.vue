@@ -7,6 +7,7 @@
                 v-model="tab"
                 bg-color="transparent"
                 grow
+                :direction="tabsDirection"
             >
                 <v-tab value="practice">Oefening met werkwoorden</v-tab>
                 <v-tab value="learn">Werkwoorden leren</v-tab>
@@ -36,16 +37,22 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
+import { ref, onMounted, computed } from "vue";
 import { useStore } from "vuex";
+import { useDisplay } from "vuetify";
 import VerbForm from "@/components/verbs/VerbForm.vue";
 import VerbAnswers from "@/components/verbs/practice/VerbAnswer.vue";
 import VerbCard from "@/components/verbs/show/VerbCard.vue";
 import VerbCardExamples from "@/components/verbs/VerbCardExamples.vue";
 
 const store = useStore();
+const { mobile } = useDisplay();
+
+const tabsDirection = computed(() => mobile.value ? "vertical" : "horizontal");
+
 onMounted(() => {
     store.dispatch("setVerbList");
+    console.log(mobile.value);
 });
 
 const answerComponentKey = ref(0);
